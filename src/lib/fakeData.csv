@@ -1,0 +1,1161 @@
+county,population,Metric_Type,prop_comfortable,prop_okay,prop_just,prop_difficult,total
+Alameda,A,Improved Metric,0.16,0.2,0.38,0.26,1
+Alpine,A,Improved Metric,0.37,0.1,0.25,0.29,1
+Amador,A,Improved Metric,0.27,0.3,0.24,0.19,1
+Butte,A,Improved Metric,0.4,0.11,0.31,0.18,1
+Calaveras,A,Improved Metric,0.48,0.06,0.24,0.22,1
+Colusa,A,Improved Metric,0.07,0.11,0.36,0.45,1
+Contra Costa,A,Improved Metric,0.2,0.26,0.17,0.37,1
+Del Norte,A,Improved Metric,0.42,0.13,0.04,0.41,1
+El Dorado,A,Improved Metric,0.31,0.08,0.15,0.46,1
+Fresno,A,Improved Metric,0.17,0.36,0.21,0.26,1
+Glenn,A,Improved Metric,0.61,0.26,0.01,0.11,1
+Humboldt,A,Improved Metric,0.4,0.36,0.19,0.06,1
+Imperial,A,Improved Metric,0.33,0.31,0.31,0.05,1
+Inyo,A,Improved Metric,0.19,0.3,0.23,0.28,1
+Kern,A,Improved Metric,0.07,0.15,0.53,0.25,1
+Kings,A,Improved Metric,0.39,0.24,0.03,0.34,1
+Lake,A,Improved Metric,0.12,0.36,0.05,0.46,1
+Lassen,A,Improved Metric,0.02,0.2,0.47,0.31,1
+Los Angeles,A,Improved Metric,0.17,0.05,0.47,0.31,1
+Madera,A,Improved Metric,0.37,0.25,0.36,0.03,1
+Marin,A,Improved Metric,0.5,0,0.36,0.14,1
+Mariposa,A,Improved Metric,0.47,0.14,0.11,0.28,1
+Mendocino,A,Improved Metric,0.21,0.22,0.3,0.27,1
+Merced,A,Improved Metric,0.31,0.27,0.29,0.12,1
+Modoc,A,Improved Metric,0.32,0.39,0.08,0.22,1
+Mono,A,Improved Metric,0.48,0.09,0.05,0.38,1
+Monterey,A,Improved Metric,0.33,0.24,0.35,0.08,1
+Napa,A,Improved Metric,0.34,0.45,0.21,0.01,1
+Nevada,A,Improved Metric,0.14,0.33,0.22,0.32,1
+Orange,A,Improved Metric,0.07,0.29,0.23,0.41,1
+Placer,A,Improved Metric,0.34,0.04,0.28,0.33,1
+Plumas,A,Improved Metric,0.39,0.24,0.35,0.02,1
+Riverside,A,Improved Metric,0.33,0.21,0.14,0.32,1
+Sacramento,A,Improved Metric,0.3,0.29,0.27,0.14,1
+San Benito,A,Improved Metric,0.02,0.02,0.44,0.51,1
+San Bernardino,A,Improved Metric,0.54,0.22,0.08,0.16,1
+San Diego,A,Improved Metric,0.39,0.46,0.02,0.13,1
+San Francisco,A,Improved Metric,0.25,0.13,0.27,0.36,1
+San Joaquin,A,Improved Metric,0.14,0.44,0.1,0.32,1
+San Luis Obispo,A,Improved Metric,0.19,0.31,0.34,0.15,1
+San Mateo,A,Improved Metric,0.08,0.51,0.32,0.08,1
+Santa Barbara,A,Improved Metric,0.16,0.34,0.28,0.22,1
+Santa Clara,A,Improved Metric,0.35,0.41,0.2,0.04,1
+Santa Cruz,A,Improved Metric,0.15,0.3,0.37,0.18,1
+Shasta,A,Improved Metric,0.1,0.3,0.3,0.3,1
+Sierra,A,Improved Metric,0.07,0.53,0.14,0.25,1
+Siskiyou,A,Improved Metric,0.21,0.06,0.29,0.44,1
+Solano,A,Improved Metric,0.23,0.08,0.33,0.36,1
+Sonoma,A,Improved Metric,0.1,0.28,0.26,0.36,1
+Stanislaus,A,Improved Metric,0.31,0.19,0.2,0.3,1
+Sutter,A,Improved Metric,0.03,0.29,0.6,0.08,1
+Tehama,A,Improved Metric,0.16,0.37,0.15,0.32,1
+Trinity,A,Improved Metric,0.44,0.14,0.11,0.31,1
+Tulare,A,Improved Metric,0.07,0.28,0.26,0.38,1
+Tuolumne,A,Improved Metric,0.31,0.04,0.21,0.44,1
+Ventura,A,Improved Metric,0.12,0.49,0.15,0.24,1
+Yolo,A,Improved Metric,0.06,0.17,0.4,0.37,1
+Yuba,A,Improved Metric,0.34,0.36,0.21,0.09,1
+Alameda,B,Improved Metric,0.56,0.12,0.01,0.31,1
+Alpine,B,Improved Metric,0.16,0.4,0.4,0.05,1
+Amador,B,Improved Metric,0.41,0.21,0.23,0.14,1
+Butte,B,Improved Metric,0.06,0.34,0.01,0.59,1
+Calaveras,B,Improved Metric,0.2,0.06,0.5,0.24,1
+Colusa,B,Improved Metric,0.13,0.43,0.18,0.26,1
+Contra Costa,B,Improved Metric,0.22,0.26,0.26,0.26,1
+Del Norte,B,Improved Metric,0.28,0.03,0.09,0.61,1
+El Dorado,B,Improved Metric,0.32,0.19,0.22,0.27,1
+Fresno,B,Improved Metric,0.31,0.09,0.3,0.3,1
+Glenn,B,Improved Metric,0.43,0.46,0.1,0.01,1
+Humboldt,B,Improved Metric,0.18,0.22,0.29,0.3,1
+Imperial,B,Improved Metric,0.34,0,0.25,0.41,1
+Inyo,B,Improved Metric,0.46,0.2,0.01,0.32,1
+Kern,B,Improved Metric,0.36,0.16,0.13,0.35,1
+Kings,B,Improved Metric,0,0.31,0.25,0.44,1
+Lake,B,Improved Metric,0.22,0.12,0.43,0.23,1
+Lassen,B,Improved Metric,0.1,0.02,0.47,0.4,1
+Los Angeles,B,Improved Metric,0.32,0.09,0.18,0.41,1
+Madera,B,Improved Metric,0.33,0.37,0.29,0.01,1
+Marin,B,Improved Metric,0.15,0.4,0.27,0.19,1
+Mariposa,B,Improved Metric,0.06,0.17,0.5,0.27,1
+Mendocino,B,Improved Metric,0.15,0.05,0.44,0.36,1
+Merced,B,Improved Metric,0.33,0.16,0.3,0.22,1
+Modoc,B,Improved Metric,0.27,0.4,0.14,0.2,1
+Mono,B,Improved Metric,0.28,0.16,0.33,0.24,1
+Monterey,B,Improved Metric,0.04,0.35,0.35,0.26,1
+Napa,B,Improved Metric,0.22,0.14,0.16,0.49,1
+Nevada,B,Improved Metric,0.5,0.29,0.12,0.09,1
+Orange,B,Improved Metric,0.35,0.02,0.26,0.38,1
+Placer,B,Improved Metric,0.37,0.08,0.31,0.24,1
+Plumas,B,Improved Metric,0.08,0.35,0.22,0.35,1
+Riverside,B,Improved Metric,0.05,0.31,0.32,0.32,1
+Sacramento,B,Improved Metric,0.26,0.21,0.27,0.26,1
+San Benito,B,Improved Metric,0.19,0.32,0.09,0.39,1
+San Bernardino,B,Improved Metric,0.39,0,0.01,0.6,1
+San Diego,B,Improved Metric,0.15,0.07,0.4,0.39,1
+San Francisco,B,Improved Metric,0.1,0.45,0.05,0.4,1
+San Joaquin,B,Improved Metric,0.6,0.06,0.24,0.1,1
+San Luis Obispo,B,Improved Metric,0.11,0.28,0.5,0.11,1
+San Mateo,B,Improved Metric,0.18,0.38,0.24,0.2,1
+Santa Barbara,B,Improved Metric,0.32,0.36,0.21,0.12,1
+Santa Clara,B,Improved Metric,0.28,0.12,0.27,0.34,1
+Santa Cruz,B,Improved Metric,0.15,0.27,0.37,0.22,1
+Shasta,B,Improved Metric,0.49,0.03,0.34,0.14,1
+Sierra,B,Improved Metric,0.41,0.06,0.16,0.36,1
+Siskiyou,B,Improved Metric,0.18,0.26,0.22,0.34,1
+Solano,B,Improved Metric,0.51,0.04,0.29,0.16,1
+Sonoma,B,Improved Metric,0.51,0.35,0.06,0.08,1
+Stanislaus,B,Improved Metric,0.2,0.3,0.27,0.23,1
+Sutter,B,Improved Metric,0.27,0.06,0.3,0.37,1
+Tehama,B,Improved Metric,0.08,0.5,0.38,0.05,1
+Trinity,B,Improved Metric,0.4,0.01,0.34,0.24,1
+Tulare,B,Improved Metric,0.15,0.36,0.19,0.3,1
+Tuolumne,B,Improved Metric,0.06,0.42,0.01,0.51,1
+Ventura,B,Improved Metric,0.36,0.21,0.28,0.15,1
+Yolo,B,Improved Metric,0.35,0.42,0.03,0.2,1
+Yuba,B,Improved Metric,0.07,0.26,0.25,0.42,1
+Alameda,C,Improved Metric,0.26,0.35,0.06,0.32,1
+Alpine,C,Improved Metric,0.3,0.19,0.21,0.3,1
+Amador,C,Improved Metric,0.53,0.28,0.05,0.14,1
+Butte,C,Improved Metric,0.19,0.18,0.37,0.26,1
+Calaveras,C,Improved Metric,0.4,0.13,0.41,0.06,1
+Colusa,C,Improved Metric,0.16,0.42,0.12,0.31,1
+Contra Costa,C,Improved Metric,0.23,0.46,0.12,0.19,1
+Del Norte,C,Improved Metric,0.15,0.5,0.04,0.32,1
+El Dorado,C,Improved Metric,0.26,0.39,0.01,0.33,1
+Fresno,C,Improved Metric,0.34,0.09,0.29,0.28,1
+Glenn,C,Improved Metric,0.08,0.36,0.13,0.44,1
+Humboldt,C,Improved Metric,0.07,0.43,0.04,0.45,1
+Imperial,C,Improved Metric,0.08,0.19,0.2,0.53,1
+Inyo,C,Improved Metric,0.33,0.25,0.28,0.14,1
+Kern,C,Improved Metric,0.22,0.28,0.28,0.22,1
+Kings,C,Improved Metric,0.37,0.22,0.14,0.26,1
+Lake,C,Improved Metric,0.41,0.12,0.08,0.39,1
+Lassen,C,Improved Metric,0.28,0.33,0.3,0.09,1
+Los Angeles,C,Improved Metric,0.24,0.17,0.4,0.19,1
+Madera,C,Improved Metric,0.31,0.14,0.47,0.08,1
+Marin,C,Improved Metric,0.3,0.28,0.24,0.19,1
+Mariposa,C,Improved Metric,0.33,0.31,0.11,0.25,1
+Mendocino,C,Improved Metric,0.39,0.33,0.25,0.03,1
+Merced,C,Improved Metric,0.2,0.26,0.21,0.33,1
+Modoc,C,Improved Metric,0.27,0.02,0.17,0.53,1
+Mono,C,Improved Metric,0.19,0.22,0.28,0.31,1
+Monterey,C,Improved Metric,0.01,0.3,0.53,0.16,1
+Napa,C,Improved Metric,0.12,0.53,0.13,0.23,1
+Nevada,C,Improved Metric,0.32,0.28,0.16,0.24,1
+Orange,C,Improved Metric,0.11,0.27,0.16,0.46,1
+Placer,C,Improved Metric,0.34,0.1,0.05,0.51,1
+Plumas,C,Improved Metric,0.15,0.27,0.19,0.39,1
+Riverside,C,Improved Metric,0.15,0.43,0.26,0.16,1
+Sacramento,C,Improved Metric,0.54,0.07,0.03,0.36,1
+San Benito,C,Improved Metric,0.57,0.14,0.02,0.28,1
+San Bernardino,C,Improved Metric,0.36,0.27,0.13,0.24,1
+San Diego,C,Improved Metric,0.2,0.43,0.19,0.18,1
+San Francisco,C,Improved Metric,0.14,0.13,0.34,0.39,1
+San Joaquin,C,Improved Metric,0.06,0.35,0.17,0.43,1
+San Luis Obispo,C,Improved Metric,0.27,0.07,0.34,0.32,1
+San Mateo,C,Improved Metric,0.21,0.29,0.28,0.22,1
+Santa Barbara,C,Improved Metric,0.19,0.22,0.15,0.44,1
+Santa Clara,C,Improved Metric,0.18,0.22,0.34,0.27,1
+Santa Cruz,C,Improved Metric,0.17,0.03,0.25,0.55,1
+Shasta,C,Improved Metric,0.3,0.49,0.14,0.07,1
+Sierra,C,Improved Metric,0.32,0.3,0.28,0.1,1
+Siskiyou,C,Improved Metric,0.2,0.28,0.24,0.28,1
+Solano,C,Improved Metric,0.27,0.25,0.18,0.3,1
+Sonoma,C,Improved Metric,0.13,0.35,0.33,0.2,1
+Stanislaus,C,Improved Metric,0.26,0.19,0.07,0.47,1
+Sutter,C,Improved Metric,0.45,0.3,0.13,0.12,1
+Tehama,C,Improved Metric,0.14,0.31,0.4,0.14,1
+Trinity,C,Improved Metric,0.32,0.01,0.2,0.48,1
+Tulare,C,Improved Metric,0.11,0.26,0.29,0.34,1
+Tuolumne,C,Improved Metric,0.23,0.19,0.28,0.3,1
+Ventura,C,Improved Metric,0.2,0.35,0.29,0.16,1
+Yolo,C,Improved Metric,0.41,0.28,0.27,0.04,1
+Yuba,C,Improved Metric,0.24,0.2,0.3,0.25,1
+Alameda,D,Improved Metric,0.24,0.16,0.26,0.34,1
+Alpine,D,Improved Metric,0.27,0.08,0.38,0.27,1
+Amador,D,Improved Metric,0.15,0.29,0.38,0.18,1
+Butte,D,Improved Metric,0.24,0.33,0.13,0.3,1
+Calaveras,D,Improved Metric,0.27,0.26,0.2,0.27,1
+Colusa,D,Improved Metric,0.33,0.3,0.08,0.29,1
+Contra Costa,D,Improved Metric,0.33,0.12,0.34,0.21,1
+Del Norte,D,Improved Metric,0.14,0.21,0.3,0.35,1
+El Dorado,D,Improved Metric,0.32,0.18,0.33,0.17,1
+Fresno,D,Improved Metric,0.15,0.14,0.18,0.53,1
+Glenn,D,Improved Metric,0.3,0.34,0.34,0.02,1
+Humboldt,D,Improved Metric,0.21,0.43,0.21,0.15,1
+Imperial,D,Improved Metric,0.2,0.22,0.48,0.1,1
+Inyo,D,Improved Metric,0.24,0.28,0.34,0.14,1
+Kern,D,Improved Metric,0.32,0.19,0.32,0.17,1
+Kings,D,Improved Metric,0.32,0.21,0.19,0.27,1
+Lake,D,Improved Metric,0.22,0.02,0.13,0.64,1
+Lassen,D,Improved Metric,0.32,0,0.27,0.41,1
+Los Angeles,D,Improved Metric,0.77,0.1,0.1,0.02,1
+Madera,D,Improved Metric,0.34,0.01,0.13,0.52,1
+Marin,D,Improved Metric,0.35,0.03,0.27,0.34,1
+Mariposa,D,Improved Metric,0.21,0.22,0.29,0.28,1
+Mendocino,D,Improved Metric,0.21,0.1,0.23,0.47,1
+Merced,D,Improved Metric,0.24,0.3,0.23,0.23,1
+Modoc,D,Improved Metric,0.14,0.23,0.5,0.12,1
+Mono,D,Improved Metric,0.37,0.32,0.22,0.09,1
+Monterey,D,Improved Metric,0.1,0.28,0.33,0.29,1
+Napa,D,Improved Metric,0.36,0.06,0.24,0.34,1
+Nevada,D,Improved Metric,0.25,0.35,0.33,0.06,1
+Orange,D,Improved Metric,0.26,0.22,0.09,0.44,1
+Placer,D,Improved Metric,0.27,0.16,0.27,0.3,1
+Plumas,D,Improved Metric,0.4,0.14,0.44,0.02,1
+Riverside,D,Improved Metric,0.21,0.09,0.22,0.48,1
+Sacramento,D,Improved Metric,0.15,0.31,0.04,0.5,1
+San Benito,D,Improved Metric,0.1,0.09,0.32,0.49,1
+San Bernardino,D,Improved Metric,0.11,0.11,0.59,0.19,1
+San Diego,D,Improved Metric,0.26,0.18,0.46,0.11,1
+San Francisco,D,Improved Metric,0.21,0.15,0.46,0.17,1
+San Joaquin,D,Improved Metric,0.13,0.25,0.41,0.21,1
+San Luis Obispo,D,Improved Metric,0.34,0.3,0.25,0.11,1
+San Mateo,D,Improved Metric,0.03,0.38,0.51,0.09,1
+Santa Barbara,D,Improved Metric,0.41,0.48,0.05,0.05,1
+Santa Clara,D,Improved Metric,0.19,0.2,0.27,0.34,1
+Santa Cruz,D,Improved Metric,0.14,0.33,0.27,0.27,1
+Shasta,D,Improved Metric,0.46,0.01,0.49,0.03,1
+Sierra,D,Improved Metric,0.37,0.24,0.36,0.03,1
+Siskiyou,D,Improved Metric,0.18,0.3,0.52,0,1
+Solano,D,Improved Metric,0.6,0.22,0.1,0.09,1
+Sonoma,D,Improved Metric,0.22,0.27,0.22,0.28,1
+Stanislaus,D,Improved Metric,0.41,0.05,0.45,0.1,1
+Sutter,D,Improved Metric,0.02,0.34,0.26,0.38,1
+Tehama,D,Improved Metric,0.18,0.09,0.41,0.32,1
+Trinity,D,Improved Metric,0.34,0.15,0.28,0.23,1
+Tulare,D,Improved Metric,0.21,0.32,0.35,0.12,1
+Tuolumne,D,Improved Metric,0.35,0.03,0.23,0.39,1
+Ventura,D,Improved Metric,0.5,0.13,0.11,0.27,1
+Yolo,D,Improved Metric,0.23,0.37,0.22,0.18,1
+Yuba,D,Improved Metric,0.28,0.44,0.1,0.17,1
+Alameda,E,Improved Metric,0.22,0.18,0.21,0.38,1
+Alpine,E,Improved Metric,0.04,0.25,0.27,0.44,1
+Amador,E,Improved Metric,0.12,0.2,0.37,0.31,1
+Butte,E,Improved Metric,0.19,0.39,0.28,0.14,1
+Calaveras,E,Improved Metric,0.1,0.35,0.24,0.31,1
+Colusa,E,Improved Metric,0.34,0.19,0.08,0.39,1
+Contra Costa,E,Improved Metric,0.21,0.07,0.66,0.05,1
+Del Norte,E,Improved Metric,0.45,0.13,0.13,0.29,1
+El Dorado,E,Improved Metric,0.28,0.12,0.16,0.44,1
+Fresno,E,Improved Metric,0.33,0.11,0.43,0.14,1
+Glenn,E,Improved Metric,0.16,0.06,0.43,0.35,1
+Humboldt,E,Improved Metric,0.26,0.2,0.17,0.37,1
+Imperial,E,Improved Metric,0.28,0.22,0.43,0.07,1
+Inyo,E,Improved Metric,0.26,0.27,0.29,0.18,1
+Kern,E,Improved Metric,0.29,0.4,0.01,0.31,1
+Kings,E,Improved Metric,0.41,0.4,0.13,0.07,1
+Lake,E,Improved Metric,0.61,0.05,0.05,0.28,1
+Lassen,E,Improved Metric,0.27,0.36,0.31,0.06,1
+Los Angeles,E,Improved Metric,0.11,0.31,0.2,0.37,1
+Madera,E,Improved Metric,0.09,0.39,0.23,0.29,1
+Marin,E,Improved Metric,0.34,0.36,0.23,0.07,1
+Mariposa,E,Improved Metric,0.27,0.16,0.45,0.12,1
+Mendocino,E,Improved Metric,0.48,0.16,0.1,0.26,1
+Merced,E,Improved Metric,0.32,0.29,0.01,0.38,1
+Modoc,E,Improved Metric,0.1,0.34,0.01,0.54,1
+Mono,E,Improved Metric,0.41,0.32,0.08,0.19,1
+Monterey,E,Improved Metric,0.19,0.31,0.14,0.36,1
+Napa,E,Improved Metric,0.43,0.17,0.37,0.03,1
+Nevada,E,Improved Metric,0.27,0.25,0.22,0.26,1
+Orange,E,Improved Metric,0.54,0.36,0.06,0.04,1
+Placer,E,Improved Metric,0.22,0.14,0.32,0.32,1
+Plumas,E,Improved Metric,0.43,0.43,0.07,0.07,1
+Riverside,E,Improved Metric,0.25,0.23,0.24,0.28,1
+Sacramento,E,Improved Metric,0.3,0.05,0.29,0.36,1
+San Benito,E,Improved Metric,0.17,0.23,0.46,0.14,1
+San Bernardino,E,Improved Metric,0.16,0.45,0.38,0.01,1
+San Diego,E,Improved Metric,0.01,0.42,0.24,0.32,1
+San Francisco,E,Improved Metric,0.31,0.27,0.24,0.19,1
+San Joaquin,E,Improved Metric,0.28,0.28,0.17,0.27,1
+San Luis Obispo,E,Improved Metric,0,0.19,0.51,0.3,1
+San Mateo,E,Improved Metric,0.03,0.32,0.25,0.4,1
+Santa Barbara,E,Improved Metric,0.14,0.7,0.09,0.07,1
+Santa Clara,E,Improved Metric,0.56,0.28,0.14,0.02,1
+Santa Cruz,E,Improved Metric,0.29,0.15,0.33,0.23,1
+Shasta,E,Improved Metric,0.36,0.24,0.18,0.22,1
+Sierra,E,Improved Metric,0.22,0.41,0.37,0,1
+Siskiyou,E,Improved Metric,0.03,0.29,0.36,0.32,1
+Solano,E,Improved Metric,0.43,0.34,0.2,0.03,1
+Sonoma,E,Improved Metric,0.47,0.09,0.14,0.3,1
+Stanislaus,E,Improved Metric,0.06,0.27,0.27,0.41,1
+Sutter,E,Improved Metric,0.45,0.05,0.43,0.07,1
+Tehama,E,Improved Metric,0.09,0.19,0.35,0.37,1
+Trinity,E,Improved Metric,0.03,0.44,0.07,0.46,1
+Tulare,E,Improved Metric,0.18,0.35,0.07,0.39,1
+Tuolumne,E,Improved Metric,0.07,0.06,0.65,0.22,1
+Ventura,E,Improved Metric,0.12,0.24,0.1,0.54,1
+Yolo,E,Improved Metric,0.03,0.26,0.35,0.36,1
+Yuba,E,Improved Metric,0.39,0.16,0.29,0.17,1
+Alameda,F,Improved Metric,0.12,0.24,0.3,0.33,1
+Alpine,F,Improved Metric,0.05,0.35,0.16,0.45,1
+Amador,F,Improved Metric,0.04,0.4,0.06,0.5,1
+Butte,F,Improved Metric,0.58,0.08,0.26,0.08,1
+Calaveras,F,Improved Metric,0.39,0.3,0.28,0.03,1
+Colusa,F,Improved Metric,0.26,0.25,0.23,0.26,1
+Contra Costa,F,Improved Metric,0.44,0.1,0.08,0.38,1
+Del Norte,F,Improved Metric,0.07,0.5,0.4,0.03,1
+El Dorado,F,Improved Metric,0.06,0.5,0.3,0.14,1
+Fresno,F,Improved Metric,0.31,0.05,0.37,0.28,1
+Glenn,F,Improved Metric,0.29,0.35,0.33,0.04,1
+Humboldt,F,Improved Metric,0.01,0.81,0.17,0.02,1
+Imperial,F,Improved Metric,0.28,0.29,0.11,0.32,1
+Inyo,F,Improved Metric,0.44,0.11,0.42,0.03,1
+Kern,F,Improved Metric,0.27,0.01,0.33,0.38,1
+Kings,F,Improved Metric,0.24,0.44,0.26,0.06,1
+Lake,F,Improved Metric,0.09,0.54,0.13,0.24,1
+Lassen,F,Improved Metric,0.02,0.25,0.31,0.42,1
+Los Angeles,F,Improved Metric,0.22,0.24,0.16,0.38,1
+Madera,F,Improved Metric,0.31,0.29,0.03,0.37,1
+Marin,F,Improved Metric,0.2,0.36,0.34,0.1,1
+Mariposa,F,Improved Metric,0.27,0.04,0.44,0.25,1
+Mendocino,F,Improved Metric,0.33,0.34,0.12,0.21,1
+Merced,F,Improved Metric,0.03,0.22,0.26,0.5,1
+Modoc,F,Improved Metric,0.27,0.35,0.03,0.35,1
+Mono,F,Improved Metric,0.31,0.28,0.04,0.36,1
+Monterey,F,Improved Metric,0.32,0.18,0.35,0.15,1
+Napa,F,Improved Metric,0.09,0.38,0.23,0.3,1
+Nevada,F,Improved Metric,0.14,0.32,0.25,0.29,1
+Orange,F,Improved Metric,0.34,0.33,0.19,0.14,1
+Placer,F,Improved Metric,0.3,0.27,0.1,0.33,1
+Plumas,F,Improved Metric,0.16,0.06,0.51,0.27,1
+Riverside,F,Improved Metric,0.11,0.63,0.02,0.24,1
+Sacramento,F,Improved Metric,0.33,0.38,0.08,0.21,1
+San Benito,F,Improved Metric,0.04,0.39,0.38,0.19,1
+San Bernardino,F,Improved Metric,0.02,0.03,0.46,0.49,1
+San Diego,F,Improved Metric,0.27,0.2,0.27,0.26,1
+San Francisco,F,Improved Metric,0.03,0.35,0.22,0.4,1
+San Joaquin,F,Improved Metric,0.18,0.31,0.31,0.2,1
+San Luis Obispo,F,Improved Metric,0.45,0.41,0.04,0.11,1
+San Mateo,F,Improved Metric,0.43,0.01,0.56,0,1
+Santa Barbara,F,Improved Metric,0.15,0.01,0.47,0.38,1
+Santa Clara,F,Improved Metric,0.22,0.3,0.27,0.21,1
+Santa Cruz,F,Improved Metric,0.51,0.47,0.01,0.01,1
+Shasta,F,Improved Metric,0.3,0.3,0.23,0.18,1
+Sierra,F,Improved Metric,0.2,0.33,0.25,0.22,1
+Siskiyou,F,Improved Metric,0.32,0.45,0.16,0.07,1
+Solano,F,Improved Metric,0.36,0.11,0.39,0.14,1
+Sonoma,F,Improved Metric,0.29,0.29,0.02,0.41,1
+Stanislaus,F,Improved Metric,0.4,0.18,0.27,0.15,1
+Sutter,F,Improved Metric,0.16,0.36,0.09,0.39,1
+Tehama,F,Improved Metric,0.06,0.47,0.13,0.34,1
+Trinity,F,Improved Metric,0.28,0.24,0.39,0.08,1
+Tulare,F,Improved Metric,0.18,0.19,0.15,0.48,1
+Tuolumne,F,Improved Metric,0.2,0.29,0.16,0.35,1
+Ventura,F,Improved Metric,0.16,0.24,0.29,0.31,1
+Yolo,F,Improved Metric,0.4,0.24,0.17,0.19,1
+Yuba,F,Improved Metric,0.21,0.23,0.29,0.27,1
+Alameda,G,Improved Metric,0.14,0.26,0.27,0.33,1
+Alpine,G,Improved Metric,0.4,0.39,0.08,0.13,1
+Amador,G,Improved Metric,0.09,0.3,0.02,0.59,1
+Butte,G,Improved Metric,0.43,0.43,0.07,0.07,1
+Calaveras,G,Improved Metric,0.19,0.31,0.29,0.21,1
+Colusa,G,Improved Metric,0.16,0.22,0.14,0.48,1
+Contra Costa,G,Improved Metric,0.47,0.32,0.06,0.15,1
+Del Norte,G,Improved Metric,0.41,0.17,0.01,0.41,1
+El Dorado,G,Improved Metric,0.47,0.01,0.29,0.22,1
+Fresno,G,Improved Metric,0.25,0.22,0.5,0.03,1
+Glenn,G,Improved Metric,0.18,0.23,0.18,0.41,1
+Humboldt,G,Improved Metric,0.41,0.09,0.22,0.28,1
+Imperial,G,Improved Metric,0.11,0.55,0.32,0.01,1
+Inyo,G,Improved Metric,0.22,0.02,0.41,0.35,1
+Kern,G,Improved Metric,0.26,0.21,0.27,0.25,1
+Kings,G,Improved Metric,0.16,0.23,0.49,0.12,1
+Lake,G,Improved Metric,0.25,0.51,0.2,0.04,1
+Lassen,G,Improved Metric,0.35,0.01,0.33,0.32,1
+Los Angeles,G,Improved Metric,0.2,0.05,0.22,0.53,1
+Madera,G,Improved Metric,0.01,0.23,0.53,0.23,1
+Marin,G,Improved Metric,0.26,0.42,0.04,0.28,1
+Mariposa,G,Improved Metric,0.19,0.08,0.38,0.35,1
+Mendocino,G,Improved Metric,0.18,0.35,0.09,0.38,1
+Merced,G,Improved Metric,0.22,0.44,0.2,0.14,1
+Modoc,G,Improved Metric,0.35,0.37,0.05,0.23,1
+Mono,G,Improved Metric,0.3,0.28,0.39,0.03,1
+Monterey,G,Improved Metric,0.25,0.19,0.31,0.25,1
+Napa,G,Improved Metric,0.41,0.11,0.43,0.05,1
+Nevada,G,Improved Metric,0.37,0.18,0.09,0.36,1
+Orange,G,Improved Metric,0.15,0.17,0.6,0.08,1
+Placer,G,Improved Metric,0.15,0.45,0.3,0.1,1
+Plumas,G,Improved Metric,0.3,0.15,0.31,0.24,1
+Riverside,G,Improved Metric,0.39,0.03,0.3,0.28,1
+Sacramento,G,Improved Metric,0.27,0.28,0.26,0.19,1
+San Benito,G,Improved Metric,0.22,0.2,0.05,0.53,1
+San Bernardino,G,Improved Metric,0.29,0.21,0.24,0.27,1
+San Diego,G,Improved Metric,0.25,0.31,0.1,0.35,1
+San Francisco,G,Improved Metric,0.34,0.1,0.34,0.22,1
+San Joaquin,G,Improved Metric,0.16,0.05,0.71,0.09,1
+San Luis Obispo,G,Improved Metric,0.12,0.18,0.36,0.35,1
+San Mateo,G,Improved Metric,0.04,0.27,0.36,0.33,1
+Santa Barbara,G,Improved Metric,0.08,0.39,0.17,0.36,1
+Santa Clara,G,Improved Metric,0.32,0.32,0.32,0.03,1
+Santa Cruz,G,Improved Metric,0.17,0.05,0.29,0.48,1
+Shasta,G,Improved Metric,0.36,0.25,0.25,0.14,1
+Sierra,G,Improved Metric,0.42,0.21,0.18,0.18,1
+Siskiyou,G,Improved Metric,0.07,0.27,0.05,0.61,1
+Solano,G,Improved Metric,0.14,0.19,0.55,0.12,1
+Sonoma,G,Improved Metric,0.23,0.58,0.19,0.01,1
+Stanislaus,G,Improved Metric,0.07,0.2,0.21,0.51,1
+Sutter,G,Improved Metric,0.1,0.32,0.55,0.03,1
+Tehama,G,Improved Metric,0.29,0.29,0.17,0.24,1
+Trinity,G,Improved Metric,0.27,0.22,0.27,0.25,1
+Tulare,G,Improved Metric,0.19,0.43,0.15,0.23,1
+Tuolumne,G,Improved Metric,0.37,0.33,0.22,0.08,1
+Ventura,G,Improved Metric,0.23,0.09,0.36,0.32,1
+Yolo,G,Improved Metric,0.15,0.19,0.33,0.34,1
+Yuba,G,Improved Metric,0.25,0.09,0.51,0.14,1
+Alameda,H,Improved Metric,0.35,0.06,0.38,0.21,1
+Alpine,H,Improved Metric,0.05,0.58,0.11,0.26,1
+Amador,H,Improved Metric,0.28,0.08,0.1,0.55,1
+Butte,H,Improved Metric,0.35,0.44,0.06,0.15,1
+Calaveras,H,Improved Metric,0.17,0.15,0.24,0.44,1
+Colusa,H,Improved Metric,0.42,0.01,0.39,0.17,1
+Contra Costa,H,Improved Metric,0.1,0.36,0.42,0.12,1
+Del Norte,H,Improved Metric,0.39,0.28,0.33,0,1
+El Dorado,H,Improved Metric,0.19,0.02,0.54,0.26,1
+Fresno,H,Improved Metric,0.1,0.37,0.23,0.3,1
+Glenn,H,Improved Metric,0.48,0.01,0.34,0.17,1
+Humboldt,H,Improved Metric,0.19,0.26,0.45,0.1,1
+Imperial,H,Improved Metric,0.2,0.11,0.28,0.41,1
+Inyo,H,Improved Metric,0.02,0.3,0.52,0.16,1
+Kern,H,Improved Metric,0.27,0.32,0.15,0.27,1
+Kings,H,Improved Metric,0.62,0.08,0.17,0.13,1
+Lake,H,Improved Metric,0.38,0.12,0.06,0.44,1
+Lassen,H,Improved Metric,0.36,0.12,0.02,0.51,1
+Los Angeles,H,Improved Metric,0.3,0.27,0.3,0.12,1
+Madera,H,Improved Metric,0.26,0.26,0.33,0.16,1
+Marin,H,Improved Metric,0.21,0.45,0.05,0.29,1
+Mariposa,H,Improved Metric,0.23,0.23,0.06,0.48,1
+Mendocino,H,Improved Metric,0.1,0.26,0.1,0.54,1
+Merced,H,Improved Metric,0.34,0.14,0.21,0.3,1
+Modoc,H,Improved Metric,0.33,0.28,0.26,0.13,1
+Mono,H,Improved Metric,0.25,0.39,0.05,0.31,1
+Monterey,H,Improved Metric,0.21,0.41,0.06,0.32,1
+Napa,H,Improved Metric,0.46,0.27,0.26,0.01,1
+Nevada,H,Improved Metric,0.16,0.22,0.19,0.43,1
+Orange,H,Improved Metric,0.35,0.04,0.25,0.36,1
+Placer,H,Improved Metric,0.09,0.51,0.1,0.29,1
+Plumas,H,Improved Metric,0.3,0.11,0.57,0.02,1
+Riverside,H,Improved Metric,0.04,0.29,0.29,0.38,1
+Sacramento,H,Improved Metric,0.08,0.15,0.24,0.52,1
+San Benito,H,Improved Metric,0.17,0.38,0.4,0.05,1
+San Bernardino,H,Improved Metric,0.38,0.08,0.19,0.35,1
+San Diego,H,Improved Metric,0.28,0.1,0.25,0.37,1
+San Francisco,H,Improved Metric,0.11,0.56,0.26,0.07,1
+San Joaquin,H,Improved Metric,0.32,0.3,0.25,0.13,1
+San Luis Obispo,H,Improved Metric,0.43,0.03,0.25,0.3,1
+San Mateo,H,Improved Metric,0.23,0.27,0.22,0.28,1
+Santa Barbara,H,Improved Metric,0.13,0.11,0.25,0.51,1
+Santa Clara,H,Improved Metric,0.21,0.35,0.43,0.01,1
+Santa Cruz,H,Improved Metric,0.26,0.18,0.22,0.33,1
+Shasta,H,Improved Metric,0.27,0.29,0.01,0.43,1
+Sierra,H,Improved Metric,0.15,0.31,0.16,0.38,1
+Siskiyou,H,Improved Metric,0.12,0.24,0.22,0.41,1
+Solano,H,Improved Metric,0.04,0.68,0.28,0,1
+Sonoma,H,Improved Metric,0.13,0.53,0.29,0.05,1
+Stanislaus,H,Improved Metric,0.3,0.13,0.29,0.28,1
+Sutter,H,Improved Metric,0.34,0.25,0.32,0.09,1
+Tehama,H,Improved Metric,0.63,0.29,0.06,0.03,1
+Trinity,H,Improved Metric,0.12,0.34,0.09,0.45,1
+Tulare,H,Improved Metric,0.09,0.16,0.22,0.53,1
+Tuolumne,H,Improved Metric,0.45,0,0.14,0.4,1
+Ventura,H,Improved Metric,0.35,0.02,0.58,0.05,1
+Yolo,H,Improved Metric,0.52,0.07,0.16,0.25,1
+Yuba,H,Improved Metric,0.07,0.33,0.42,0.18,1
+Alameda,I,Improved Metric,0.25,0.2,0.37,0.18,1
+Alpine,I,Improved Metric,0.12,0.37,0.26,0.25,1
+Amador,I,Improved Metric,0.09,0.22,0.34,0.36,1
+Butte,I,Improved Metric,0.37,0.1,0,0.53,1
+Calaveras,I,Improved Metric,0.16,0.34,0.43,0.07,1
+Colusa,I,Improved Metric,0.28,0.31,0.31,0.1,1
+Contra Costa,I,Improved Metric,0.05,0.43,0.06,0.45,1
+Del Norte,I,Improved Metric,0.3,0.18,0.17,0.36,1
+El Dorado,I,Improved Metric,0.19,0.19,0.31,0.31,1
+Fresno,I,Improved Metric,0.39,0.34,0.24,0.04,1
+Glenn,I,Improved Metric,0.26,0.35,0.34,0.05,1
+Humboldt,I,Improved Metric,0.21,0.43,0.19,0.16,1
+Imperial,I,Improved Metric,0.39,0.11,0.35,0.16,1
+Inyo,I,Improved Metric,0,0.22,0.56,0.22,1
+Kern,I,Improved Metric,0.16,0.08,0.2,0.56,1
+Kings,I,Improved Metric,0.27,0.31,0.35,0.07,1
+Lake,I,Improved Metric,0.2,0.1,0.13,0.56,1
+Lassen,I,Improved Metric,0.28,0.29,0.19,0.24,1
+Los Angeles,I,Improved Metric,0.14,0.34,0.11,0.41,1
+Madera,I,Improved Metric,0.29,0.39,0.03,0.29,1
+Marin,I,Improved Metric,0.38,0.19,0.31,0.11,1
+Mariposa,I,Improved Metric,0.07,0.56,0.36,0.01,1
+Mendocino,I,Improved Metric,0.1,0.61,0.26,0.03,1
+Merced,I,Improved Metric,0.26,0.33,0.35,0.06,1
+Modoc,I,Improved Metric,0.19,0.17,0.26,0.38,1
+Mono,I,Improved Metric,0.43,0.05,0.49,0.02,1
+Monterey,I,Improved Metric,0.4,0.11,0.37,0.11,1
+Napa,I,Improved Metric,0.03,0.35,0.19,0.43,1
+Nevada,I,Improved Metric,0.22,0.17,0.35,0.26,1
+Orange,I,Improved Metric,0.26,0.14,0.3,0.3,1
+Placer,I,Improved Metric,0.04,0.02,0.46,0.48,1
+Plumas,I,Improved Metric,0.43,0.22,0.06,0.3,1
+Riverside,I,Improved Metric,0.31,0.15,0.05,0.49,1
+Sacramento,I,Improved Metric,0.02,0.31,0.34,0.34,1
+San Benito,I,Improved Metric,0.33,0.04,0.19,0.45,1
+San Bernardino,I,Improved Metric,0.28,0.28,0.25,0.19,1
+San Diego,I,Improved Metric,0.19,0.46,0.28,0.07,1
+San Francisco,I,Improved Metric,0.26,0.03,0.27,0.44,1
+San Joaquin,I,Improved Metric,0.14,0.13,0.34,0.39,1
+San Luis Obispo,I,Improved Metric,0.05,0.37,0.51,0.08,1
+San Mateo,I,Improved Metric,0.2,0.42,0.06,0.32,1
+Santa Barbara,I,Improved Metric,0.09,0.21,0.19,0.51,1
+Santa Clara,I,Improved Metric,0.22,0.38,0.32,0.09,1
+Santa Cruz,I,Improved Metric,0.33,0.26,0.14,0.27,1
+Shasta,I,Improved Metric,0.45,0.2,0.3,0.05,1
+Sierra,I,Improved Metric,0.27,0.22,0.29,0.22,1
+Siskiyou,I,Improved Metric,0.21,0.28,0.27,0.24,1
+Solano,I,Improved Metric,0.05,0.37,0.37,0.21,1
+Sonoma,I,Improved Metric,0.39,0.02,0.32,0.27,1
+Stanislaus,I,Improved Metric,0.13,0.25,0.28,0.34,1
+Sutter,I,Improved Metric,0.37,0.1,0.23,0.3,1
+Tehama,I,Improved Metric,0.13,0.49,0.28,0.11,1
+Trinity,I,Improved Metric,0.18,0.21,0.33,0.28,1
+Tulare,I,Improved Metric,0.3,0.24,0.2,0.26,1
+Tuolumne,I,Improved Metric,0.04,0.35,0.43,0.18,1
+Ventura,I,Improved Metric,0.34,0.12,0.36,0.18,1
+Yolo,I,Improved Metric,0.24,0.18,0.35,0.24,1
+Yuba,I,Improved Metric,0.17,0.25,0.19,0.39,1
+Alameda,J,Improved Metric,0.11,0.36,0.31,0.22,1
+Alpine,J,Improved Metric,0.02,0.17,0.38,0.42,1
+Amador,J,Improved Metric,0.3,0.18,0.35,0.17,1
+Butte,J,Improved Metric,0.44,0.02,0.45,0.09,1
+Calaveras,J,Improved Metric,0.29,0.17,0.24,0.29,1
+Colusa,J,Improved Metric,0.03,0.67,0.29,0.01,1
+Contra Costa,J,Improved Metric,0.38,0.29,0.11,0.22,1
+Del Norte,J,Improved Metric,0.13,0.39,0.08,0.4,1
+El Dorado,J,Improved Metric,0.36,0.19,0.36,0.1,1
+Fresno,J,Improved Metric,0.34,0.04,0.13,0.49,1
+Glenn,J,Improved Metric,0.36,0.21,0.4,0.03,1
+Humboldt,J,Improved Metric,0.41,0.44,0.02,0.13,1
+Imperial,J,Improved Metric,0.02,0.44,0.41,0.13,1
+Inyo,J,Improved Metric,0.25,0.29,0.14,0.32,1
+Kern,J,Improved Metric,0.13,0.35,0.17,0.36,1
+Kings,J,Improved Metric,0.26,0.21,0.3,0.23,1
+Lake,J,Improved Metric,0.31,0.29,0.23,0.17,1
+Lassen,J,Improved Metric,0.17,0.12,0.46,0.25,1
+Los Angeles,J,Improved Metric,0.32,0.29,0.31,0.08,1
+Madera,J,Improved Metric,0.08,0.07,0.18,0.67,1
+Marin,J,Improved Metric,0.4,0.22,0.03,0.36,1
+Mariposa,J,Improved Metric,0.14,0.46,0.16,0.24,1
+Mendocino,J,Improved Metric,0.26,0.29,0.23,0.23,1
+Merced,J,Improved Metric,0.3,0.22,0.24,0.24,1
+Modoc,J,Improved Metric,0.05,0.08,0.4,0.47,1
+Mono,J,Improved Metric,0.29,0.2,0.31,0.2,1
+Monterey,J,Improved Metric,0.37,0.45,0,0.18,1
+Napa,J,Improved Metric,0.19,0.3,0.18,0.33,1
+Nevada,J,Improved Metric,0.15,0.13,0.3,0.41,1
+Orange,J,Improved Metric,0.25,0.08,0.12,0.54,1
+Placer,J,Improved Metric,0.73,0.09,0.02,0.16,1
+Plumas,J,Improved Metric,0.35,0.35,0.06,0.24,1
+Riverside,J,Improved Metric,0.25,0.17,0.35,0.23,1
+Sacramento,J,Improved Metric,0.18,0.29,0.26,0.28,1
+San Benito,J,Improved Metric,0.37,0.31,0.18,0.13,1
+San Bernardino,J,Improved Metric,0.25,0.25,0.13,0.37,1
+San Diego,J,Improved Metric,0.21,0.39,0.1,0.31,1
+San Francisco,J,Improved Metric,0.01,0.06,0.54,0.38,1
+San Joaquin,J,Improved Metric,0.02,0.43,0.26,0.29,1
+San Luis Obispo,J,Improved Metric,0.36,0.15,0.27,0.23,1
+San Mateo,J,Improved Metric,0.25,0.18,0.29,0.28,1
+Santa Barbara,J,Improved Metric,0.12,0.19,0.38,0.31,1
+Santa Clara,J,Improved Metric,0.33,0.04,0.13,0.5,1
+Santa Cruz,J,Improved Metric,0.27,0.32,0.38,0.03,1
+Shasta,J,Improved Metric,0.21,0.1,0.38,0.3,1
+Sierra,J,Improved Metric,0.48,0.39,0.03,0.11,1
+Siskiyou,J,Improved Metric,0.29,0.23,0.33,0.16,1
+Solano,J,Improved Metric,0.32,0.07,0.31,0.3,1
+Sonoma,J,Improved Metric,0.3,0.53,0.06,0.11,1
+Stanislaus,J,Improved Metric,0.31,0.15,0.33,0.2,1
+Sutter,J,Improved Metric,0.56,0.03,0.04,0.38,1
+Tehama,J,Improved Metric,0.23,0.51,0.09,0.17,1
+Trinity,J,Improved Metric,0.41,0.38,0.01,0.2,1
+Tulare,J,Improved Metric,0.29,0.25,0.16,0.3,1
+Tuolumne,J,Improved Metric,0.17,0.12,0.3,0.41,1
+Ventura,J,Improved Metric,0.01,0.49,0.4,0.1,1
+Yolo,J,Improved Metric,0.27,0.45,0.23,0.06,1
+Yuba,J,Improved Metric,0.24,0.43,0.04,0.29,1
+Alameda,A,Traditional Metric,0.42,0.06,0.46,0.06,1
+Alpine,A,Traditional Metric,0.32,0.38,0.22,0.08,1
+Amador,A,Traditional Metric,0.35,0.23,0.29,0.14,1
+Butte,A,Traditional Metric,0.4,0.01,0.31,0.29,1
+Calaveras,A,Traditional Metric,0.34,0.05,0.32,0.28,1
+Colusa,A,Traditional Metric,0.1,0,0.42,0.47,1
+Contra Costa,A,Traditional Metric,0.1,0.29,0.32,0.28,1
+Del Norte,A,Traditional Metric,0.31,0.37,0.19,0.13,1
+El Dorado,A,Traditional Metric,0.41,0.39,0.13,0.08,1
+Fresno,A,Traditional Metric,0.27,0.17,0.34,0.22,1
+Glenn,A,Traditional Metric,0.19,0.35,0.25,0.2,1
+Humboldt,A,Traditional Metric,0.03,0.42,0.22,0.32,1
+Imperial,A,Traditional Metric,0.32,0.26,0.27,0.16,1
+Inyo,A,Traditional Metric,0.1,0.53,0.26,0.11,1
+Kern,A,Traditional Metric,0.03,0.34,0.32,0.31,1
+Kings,A,Traditional Metric,0.29,0.17,0.21,0.33,1
+Lake,A,Traditional Metric,0.17,0.29,0.26,0.28,1
+Lassen,A,Traditional Metric,0.15,0.17,0.31,0.37,1
+Los Angeles,A,Traditional Metric,0.38,0.19,0.28,0.16,1
+Madera,A,Traditional Metric,0.01,0.41,0.31,0.27,1
+Marin,A,Traditional Metric,0.15,0.42,0.12,0.32,1
+Mariposa,A,Traditional Metric,0.51,0.01,0.45,0.03,1
+Mendocino,A,Traditional Metric,0.12,0.09,0.4,0.39,1
+Merced,A,Traditional Metric,0.17,0.26,0.12,0.44,1
+Modoc,A,Traditional Metric,0.13,0.32,0.52,0.04,1
+Mono,A,Traditional Metric,0.29,0.36,0.03,0.32,1
+Monterey,A,Traditional Metric,0.07,0.41,0.34,0.18,1
+Napa,A,Traditional Metric,0.29,0.12,0.34,0.25,1
+Nevada,A,Traditional Metric,0.14,0.29,0.27,0.3,1
+Orange,A,Traditional Metric,0.14,0.35,0.25,0.26,1
+Placer,A,Traditional Metric,0.31,0.33,0.21,0.15,1
+Plumas,A,Traditional Metric,0.08,0.54,0.12,0.26,1
+Riverside,A,Traditional Metric,0.02,0.13,0.42,0.43,1
+Sacramento,A,Traditional Metric,0.57,0.35,0.05,0.03,1
+San Benito,A,Traditional Metric,0.28,0.13,0.36,0.23,1
+San Bernardino,A,Traditional Metric,0.36,0.21,0.17,0.27,1
+San Diego,A,Traditional Metric,0.47,0.12,0.3,0.12,1
+San Francisco,A,Traditional Metric,0.32,0.11,0.16,0.41,1
+San Joaquin,A,Traditional Metric,0.49,0.33,0.1,0.08,1
+San Luis Obispo,A,Traditional Metric,0.03,0.29,0.33,0.35,1
+San Mateo,A,Traditional Metric,0.48,0.09,0.21,0.22,1
+Santa Barbara,A,Traditional Metric,0.41,0.13,0.41,0.06,1
+Santa Clara,A,Traditional Metric,0.4,0.37,0.05,0.19,1
+Santa Cruz,A,Traditional Metric,0.18,0.3,0.03,0.49,1
+Shasta,A,Traditional Metric,0.04,0.12,0.15,0.7,1
+Sierra,A,Traditional Metric,0.21,0.04,0.54,0.2,1
+Siskiyou,A,Traditional Metric,0.1,0.37,0.17,0.36,1
+Solano,A,Traditional Metric,0.33,0.14,0.26,0.27,1
+Sonoma,A,Traditional Metric,0.23,0.43,0.02,0.32,1
+Stanislaus,A,Traditional Metric,0.13,0.35,0.19,0.33,1
+Sutter,A,Traditional Metric,0.45,0.14,0.03,0.38,1
+Tehama,A,Traditional Metric,0.45,0.02,0.33,0.19,1
+Trinity,A,Traditional Metric,0.19,0.25,0.36,0.2,1
+Tulare,A,Traditional Metric,0.31,0.35,0.08,0.25,1
+Tuolumne,A,Traditional Metric,0.07,0.25,0.19,0.49,1
+Ventura,A,Traditional Metric,0.12,0.19,0.49,0.2,1
+Yolo,A,Traditional Metric,0.43,0.29,0.01,0.26,1
+Yuba,A,Traditional Metric,0.25,0.32,0.26,0.17,1
+Alameda,B,Traditional Metric,0.33,0.24,0.18,0.24,1
+Alpine,B,Traditional Metric,0.22,0.27,0.04,0.47,1
+Amador,B,Traditional Metric,0.24,0.06,0.36,0.34,1
+Butte,B,Traditional Metric,0.3,0.32,0.07,0.31,1
+Calaveras,B,Traditional Metric,0.44,0.11,0.37,0.08,1
+Colusa,B,Traditional Metric,0.21,0.37,0.24,0.18,1
+Contra Costa,B,Traditional Metric,0.04,0.27,0.29,0.4,1
+Del Norte,B,Traditional Metric,0.35,0.03,0.1,0.52,1
+El Dorado,B,Traditional Metric,0.23,0.3,0.27,0.2,1
+Fresno,B,Traditional Metric,0.06,0.39,0.03,0.53,1
+Glenn,B,Traditional Metric,0.15,0.44,0.11,0.29,1
+Humboldt,B,Traditional Metric,0.43,0.36,0.18,0.03,1
+Imperial,B,Traditional Metric,0.36,0.13,0.37,0.14,1
+Inyo,B,Traditional Metric,0.39,0.25,0.16,0.2,1
+Kern,B,Traditional Metric,0.24,0.4,0.14,0.22,1
+Kings,B,Traditional Metric,0.25,0.3,0.03,0.41,1
+Lake,B,Traditional Metric,0.31,0.2,0.21,0.27,1
+Lassen,B,Traditional Metric,0.48,0.26,0.25,0,1
+Los Angeles,B,Traditional Metric,0.36,0.24,0.39,0.01,1
+Madera,B,Traditional Metric,0.06,0.48,0.15,0.31,1
+Marin,B,Traditional Metric,0.23,0.27,0.38,0.12,1
+Mariposa,B,Traditional Metric,0.29,0,0.02,0.68,1
+Mendocino,B,Traditional Metric,0.25,0.3,0.23,0.22,1
+Merced,B,Traditional Metric,0.38,0.19,0.11,0.32,1
+Modoc,B,Traditional Metric,0.16,0.16,0.18,0.51,1
+Mono,B,Traditional Metric,0.36,0.44,0.1,0.09,1
+Monterey,B,Traditional Metric,0.2,0.45,0.18,0.18,1
+Napa,B,Traditional Metric,0.03,0.34,0.36,0.27,1
+Nevada,B,Traditional Metric,0.42,0.02,0.44,0.12,1
+Orange,B,Traditional Metric,0.1,0.56,0.2,0.14,1
+Placer,B,Traditional Metric,0.31,0.34,0.07,0.28,1
+Plumas,B,Traditional Metric,0.1,0.44,0.38,0.08,1
+Riverside,B,Traditional Metric,0.01,0.57,0.38,0.03,1
+Sacramento,B,Traditional Metric,0.38,0.36,0.25,0.01,1
+San Benito,B,Traditional Metric,0.03,0.35,0.31,0.31,1
+San Bernardino,B,Traditional Metric,0.18,0.13,0.18,0.51,1
+San Diego,B,Traditional Metric,0.32,0.02,0.65,0.01,1
+San Francisco,B,Traditional Metric,0.36,0.19,0.08,0.36,1
+San Joaquin,B,Traditional Metric,0.31,0.25,0.33,0.12,1
+San Luis Obispo,B,Traditional Metric,0.17,0.26,0.06,0.51,1
+San Mateo,B,Traditional Metric,0.22,0.46,0.21,0.1,1
+Santa Barbara,B,Traditional Metric,0.16,0.27,0.24,0.33,1
+Santa Clara,B,Traditional Metric,0.53,0.25,0.15,0.08,1
+Santa Cruz,B,Traditional Metric,0.32,0.21,0.42,0.05,1
+Shasta,B,Traditional Metric,0.47,0.24,0.21,0.08,1
+Sierra,B,Traditional Metric,0.34,0.3,0.24,0.11,1
+Siskiyou,B,Traditional Metric,0.43,0.22,0.08,0.27,1
+Solano,B,Traditional Metric,0.38,0.01,0.46,0.15,1
+Sonoma,B,Traditional Metric,0.22,0.27,0.31,0.19,1
+Stanislaus,B,Traditional Metric,0.13,0.17,0.37,0.33,1
+Sutter,B,Traditional Metric,0.19,0.3,0.35,0.15,1
+Tehama,B,Traditional Metric,0.11,0.12,0.35,0.42,1
+Trinity,B,Traditional Metric,0.02,0.47,0.51,0.01,1
+Tulare,B,Traditional Metric,0.21,0.28,0.22,0.29,1
+Tuolumne,B,Traditional Metric,0.31,0.27,0.37,0.05,1
+Ventura,B,Traditional Metric,0.32,0.16,0.1,0.42,1
+Yolo,B,Traditional Metric,0.19,0.39,0.13,0.3,1
+Yuba,B,Traditional Metric,0.3,0.3,0.02,0.38,1
+Alameda,C,Traditional Metric,0.08,0.45,0.39,0.09,1
+Alpine,C,Traditional Metric,0.1,0.34,0.43,0.14,1
+Amador,C,Traditional Metric,0.2,0.31,0.38,0.1,1
+Butte,C,Traditional Metric,0.22,0.58,0.09,0.1,1
+Calaveras,C,Traditional Metric,0.32,0.21,0.15,0.32,1
+Colusa,C,Traditional Metric,0.11,0.29,0.3,0.31,1
+Contra Costa,C,Traditional Metric,0.03,0.12,0.08,0.77,1
+Del Norte,C,Traditional Metric,0.3,0.3,0.11,0.29,1
+El Dorado,C,Traditional Metric,0.19,0.28,0.44,0.08,1
+Fresno,C,Traditional Metric,0.3,0.11,0.41,0.18,1
+Glenn,C,Traditional Metric,0.25,0.19,0.41,0.15,1
+Humboldt,C,Traditional Metric,0.17,0.39,0.42,0.01,1
+Imperial,C,Traditional Metric,0.13,0.34,0.26,0.27,1
+Inyo,C,Traditional Metric,0.16,0.24,0.34,0.26,1
+Kern,C,Traditional Metric,0.34,0.15,0.38,0.13,1
+Kings,C,Traditional Metric,0.22,0.34,0.18,0.27,1
+Lake,C,Traditional Metric,0.45,0.17,0.27,0.11,1
+Lassen,C,Traditional Metric,0.35,0.18,0.1,0.37,1
+Los Angeles,C,Traditional Metric,0.25,0.12,0.39,0.25,1
+Madera,C,Traditional Metric,0.21,0.51,0.24,0.03,1
+Marin,C,Traditional Metric,0,0.25,0.28,0.47,1
+Mariposa,C,Traditional Metric,0,0.12,0.08,0.8,1
+Mendocino,C,Traditional Metric,0.35,0.32,0.13,0.21,1
+Merced,C,Traditional Metric,0.06,0.18,0.46,0.31,1
+Modoc,C,Traditional Metric,0.19,0.38,0.24,0.19,1
+Mono,C,Traditional Metric,0.76,0.15,0.03,0.05,1
+Monterey,C,Traditional Metric,0.35,0.17,0.18,0.3,1
+Napa,C,Traditional Metric,0.5,0.14,0.07,0.29,1
+Nevada,C,Traditional Metric,0.35,0.03,0.16,0.46,1
+Orange,C,Traditional Metric,0.27,0.28,0.26,0.19,1
+Placer,C,Traditional Metric,0.45,0.11,0.2,0.24,1
+Plumas,C,Traditional Metric,0.25,0.16,0.26,0.34,1
+Riverside,C,Traditional Metric,0.35,0.14,0.22,0.3,1
+Sacramento,C,Traditional Metric,0.02,0.41,0.54,0.03,1
+San Benito,C,Traditional Metric,0.25,0.32,0.35,0.08,1
+San Bernardino,C,Traditional Metric,0.31,0.35,0.06,0.29,1
+San Diego,C,Traditional Metric,0.29,0.11,0.42,0.18,1
+San Francisco,C,Traditional Metric,0.42,0.33,0.02,0.23,1
+San Joaquin,C,Traditional Metric,0.11,0.62,0.06,0.21,1
+San Luis Obispo,C,Traditional Metric,0.14,0.24,0.36,0.27,1
+San Mateo,C,Traditional Metric,0.37,0.18,0.19,0.26,1
+Santa Barbara,C,Traditional Metric,0.36,0.3,0.26,0.08,1
+Santa Clara,C,Traditional Metric,0.18,0.06,0.41,0.35,1
+Santa Cruz,C,Traditional Metric,0,0.28,0.52,0.19,1
+Shasta,C,Traditional Metric,0.35,0.16,0.34,0.16,1
+Sierra,C,Traditional Metric,0.15,0.28,0.15,0.42,1
+Siskiyou,C,Traditional Metric,0.05,0.14,0.61,0.2,1
+Solano,C,Traditional Metric,0.34,0.5,0.02,0.14,1
+Sonoma,C,Traditional Metric,0.21,0.36,0.32,0.11,1
+Stanislaus,C,Traditional Metric,0.23,0.24,0.34,0.19,1
+Sutter,C,Traditional Metric,0.33,0.25,0.16,0.26,1
+Tehama,C,Traditional Metric,0.03,0.34,0.44,0.19,1
+Trinity,C,Traditional Metric,0.24,0.22,0.23,0.31,1
+Tulare,C,Traditional Metric,0.42,0.27,0.19,0.12,1
+Tuolumne,C,Traditional Metric,0.2,0.04,0.61,0.16,1
+Ventura,C,Traditional Metric,0.11,0.26,0.37,0.25,1
+Yolo,C,Traditional Metric,0.1,0.39,0.28,0.23,1
+Yuba,C,Traditional Metric,0.04,0.32,0.17,0.48,1
+Alameda,D,Traditional Metric,0.23,0.26,0.24,0.27,1
+Alpine,D,Traditional Metric,0.26,0.04,0.46,0.23,1
+Amador,D,Traditional Metric,0.34,0.05,0.4,0.2,1
+Butte,D,Traditional Metric,0.39,0.3,0.29,0.02,1
+Calaveras,D,Traditional Metric,0.02,0.38,0.35,0.25,1
+Colusa,D,Traditional Metric,0.15,0.11,0.51,0.24,1
+Contra Costa,D,Traditional Metric,0.19,0.3,0.33,0.18,1
+Del Norte,D,Traditional Metric,0.15,0.3,0.06,0.5,1
+El Dorado,D,Traditional Metric,0.24,0.41,0.25,0.09,1
+Fresno,D,Traditional Metric,0.37,0.38,0.18,0.07,1
+Glenn,D,Traditional Metric,0.24,0.23,0.2,0.33,1
+Humboldt,D,Traditional Metric,0.15,0.39,0.29,0.18,1
+Imperial,D,Traditional Metric,0.06,0.22,0.39,0.34,1
+Inyo,D,Traditional Metric,0.45,0.08,0.43,0.04,1
+Kern,D,Traditional Metric,0.26,0.2,0.21,0.32,1
+Kings,D,Traditional Metric,0.26,0.38,0.03,0.33,1
+Lake,D,Traditional Metric,0.28,0.16,0.29,0.27,1
+Lassen,D,Traditional Metric,0.34,0.19,0.31,0.16,1
+Los Angeles,D,Traditional Metric,0.45,0.02,0.32,0.21,1
+Madera,D,Traditional Metric,0.41,0.02,0.09,0.47,1
+Marin,D,Traditional Metric,0.1,0.04,0.6,0.26,1
+Mariposa,D,Traditional Metric,0.13,0.08,0.31,0.47,1
+Mendocino,D,Traditional Metric,0.23,0.32,0.04,0.41,1
+Merced,D,Traditional Metric,0.22,0.44,0.03,0.31,1
+Modoc,D,Traditional Metric,0.3,0.13,0.22,0.35,1
+Mono,D,Traditional Metric,0.38,0.35,0.08,0.19,1
+Monterey,D,Traditional Metric,0.16,0.32,0.3,0.22,1
+Napa,D,Traditional Metric,0.32,0.11,0.39,0.17,1
+Nevada,D,Traditional Metric,0.03,0.03,0.38,0.57,1
+Orange,D,Traditional Metric,0.24,0.24,0.26,0.26,1
+Placer,D,Traditional Metric,0.63,0.05,0.12,0.21,1
+Plumas,D,Traditional Metric,0.17,0.31,0.2,0.32,1
+Riverside,D,Traditional Metric,0.1,0.06,0.39,0.44,1
+Sacramento,D,Traditional Metric,0.01,0.52,0.1,0.37,1
+San Benito,D,Traditional Metric,0.15,0.43,0.42,0,1
+San Bernardino,D,Traditional Metric,0.39,0.11,0.1,0.4,1
+San Diego,D,Traditional Metric,0.58,0.08,0.06,0.27,1
+San Francisco,D,Traditional Metric,0.24,0.33,0.07,0.36,1
+San Joaquin,D,Traditional Metric,0.14,0.13,0.41,0.32,1
+San Luis Obispo,D,Traditional Metric,0.26,0.14,0.35,0.25,1
+San Mateo,D,Traditional Metric,0.5,0.33,0.08,0.09,1
+Santa Barbara,D,Traditional Metric,0.21,0.25,0.51,0.03,1
+Santa Clara,D,Traditional Metric,0.08,0.29,0.12,0.51,1
+Santa Cruz,D,Traditional Metric,0.12,0.33,0.4,0.16,1
+Shasta,D,Traditional Metric,0.22,0.34,0.43,0.01,1
+Sierra,D,Traditional Metric,0.25,0.15,0.54,0.07,1
+Siskiyou,D,Traditional Metric,0.19,0.39,0.1,0.33,1
+Solano,D,Traditional Metric,0.22,0.15,0.2,0.44,1
+Sonoma,D,Traditional Metric,0.11,0.11,0.74,0.04,1
+Stanislaus,D,Traditional Metric,0.02,0.11,0.48,0.38,1
+Sutter,D,Traditional Metric,0.22,0.32,0.44,0.01,1
+Tehama,D,Traditional Metric,0.34,0.13,0.31,0.22,1
+Trinity,D,Traditional Metric,0.28,0.18,0.41,0.13,1
+Tulare,D,Traditional Metric,0.31,0.03,0.27,0.4,1
+Tuolumne,D,Traditional Metric,0.29,0.37,0.12,0.22,1
+Ventura,D,Traditional Metric,0.25,0.21,0.36,0.19,1
+Yolo,D,Traditional Metric,0.08,0.34,0.19,0.39,1
+Yuba,D,Traditional Metric,0.27,0.34,0.26,0.14,1
+Alameda,E,Traditional Metric,0.19,0.24,0.42,0.15,1
+Alpine,E,Traditional Metric,0.48,0.3,0.12,0.1,1
+Amador,E,Traditional Metric,0.28,0.28,0.21,0.23,1
+Butte,E,Traditional Metric,0.15,0.68,0.17,0.01,1
+Calaveras,E,Traditional Metric,0.3,0.15,0.41,0.15,1
+Colusa,E,Traditional Metric,0.11,0.27,0.2,0.43,1
+Contra Costa,E,Traditional Metric,0.23,0.38,0.21,0.18,1
+Del Norte,E,Traditional Metric,0.29,0.1,0.35,0.27,1
+El Dorado,E,Traditional Metric,0.23,0.25,0.3,0.23,1
+Fresno,E,Traditional Metric,0.15,0.22,0.16,0.48,1
+Glenn,E,Traditional Metric,0.31,0.07,0.13,0.49,1
+Humboldt,E,Traditional Metric,0.4,0.08,0.13,0.39,1
+Imperial,E,Traditional Metric,0.32,0.29,0.1,0.29,1
+Inyo,E,Traditional Metric,0.07,0.13,0.11,0.69,1
+Kern,E,Traditional Metric,0.22,0.2,0.13,0.46,1
+Kings,E,Traditional Metric,0.03,0.28,0.56,0.13,1
+Lake,E,Traditional Metric,0.2,0.37,0.03,0.4,1
+Lassen,E,Traditional Metric,0.46,0.16,0.32,0.06,1
+Los Angeles,E,Traditional Metric,0,0.26,0.45,0.28,1
+Madera,E,Traditional Metric,0.3,0.07,0.33,0.3,1
+Marin,E,Traditional Metric,0.24,0.45,0.3,0.01,1
+Mariposa,E,Traditional Metric,0.56,0.12,0.19,0.12,1
+Mendocino,E,Traditional Metric,0.46,0.06,0.4,0.08,1
+Merced,E,Traditional Metric,0.24,0.37,0.06,0.33,1
+Modoc,E,Traditional Metric,0.38,0.16,0.26,0.2,1
+Mono,E,Traditional Metric,0.31,0.35,0.04,0.3,1
+Monterey,E,Traditional Metric,0.16,0.23,0.17,0.43,1
+Napa,E,Traditional Metric,0.07,0.3,0.46,0.17,1
+Nevada,E,Traditional Metric,0.57,0.09,0.12,0.22,1
+Orange,E,Traditional Metric,0.46,0.09,0.24,0.21,1
+Placer,E,Traditional Metric,0.27,0.07,0.35,0.31,1
+Plumas,E,Traditional Metric,0.08,0.36,0.16,0.4,1
+Riverside,E,Traditional Metric,0.44,0.39,0.06,0.11,1
+Sacramento,E,Traditional Metric,0.13,0.32,0.4,0.15,1
+San Benito,E,Traditional Metric,0.37,0.19,0.28,0.16,1
+San Bernardino,E,Traditional Metric,0.01,0.05,0.47,0.48,1
+San Diego,E,Traditional Metric,0.23,0.01,0.21,0.56,1
+San Francisco,E,Traditional Metric,0.15,0.26,0.22,0.36,1
+San Joaquin,E,Traditional Metric,0.15,0.4,0.28,0.17,1
+San Luis Obispo,E,Traditional Metric,0.37,0.14,0.02,0.47,1
+San Mateo,E,Traditional Metric,0.42,0.25,0.1,0.23,1
+Santa Barbara,E,Traditional Metric,0.26,0.22,0.3,0.22,1
+Santa Clara,E,Traditional Metric,0.25,0.48,0.15,0.12,1
+Santa Cruz,E,Traditional Metric,0.42,0.19,0.02,0.38,1
+Shasta,E,Traditional Metric,0.29,0.23,0.29,0.2,1
+Sierra,E,Traditional Metric,0.15,0.3,0.11,0.45,1
+Siskiyou,E,Traditional Metric,0.05,0.2,0.46,0.29,1
+Solano,E,Traditional Metric,0.47,0,0.44,0.09,1
+Sonoma,E,Traditional Metric,0.22,0.52,0.01,0.25,1
+Stanislaus,E,Traditional Metric,0.02,0.19,0.38,0.41,1
+Sutter,E,Traditional Metric,0.29,0.45,0.25,0.01,1
+Tehama,E,Traditional Metric,0.34,0.14,0.24,0.28,1
+Trinity,E,Traditional Metric,0.47,0.09,0.25,0.19,1
+Tulare,E,Traditional Metric,0.16,0.14,0.37,0.33,1
+Tuolumne,E,Traditional Metric,0.15,0.66,0.12,0.07,1
+Ventura,E,Traditional Metric,0.07,0.35,0.19,0.39,1
+Yolo,E,Traditional Metric,0.33,0.27,0.37,0.03,1
+Yuba,E,Traditional Metric,0.24,0.31,0.33,0.13,1
+Alameda,F,Traditional Metric,0.09,0.36,0.35,0.2,1
+Alpine,F,Traditional Metric,0.09,0.31,0.37,0.24,1
+Amador,F,Traditional Metric,0.35,0.27,0.17,0.2,1
+Butte,F,Traditional Metric,0.2,0.08,0.34,0.37,1
+Calaveras,F,Traditional Metric,0.34,0.04,0.38,0.24,1
+Colusa,F,Traditional Metric,0.27,0.3,0.31,0.13,1
+Contra Costa,F,Traditional Metric,0.01,0.41,0.01,0.57,1
+Del Norte,F,Traditional Metric,0.28,0.38,0.21,0.13,1
+El Dorado,F,Traditional Metric,0.27,0.29,0.24,0.2,1
+Fresno,F,Traditional Metric,0.25,0.3,0.08,0.36,1
+Glenn,F,Traditional Metric,0.06,0.25,0.22,0.48,1
+Humboldt,F,Traditional Metric,0.53,0.1,0.31,0.05,1
+Imperial,F,Traditional Metric,0.31,0.2,0.35,0.14,1
+Inyo,F,Traditional Metric,0.08,0.43,0.19,0.3,1
+Kern,F,Traditional Metric,0.31,0.39,0.14,0.16,1
+Kings,F,Traditional Metric,0.3,0.29,0.14,0.27,1
+Lake,F,Traditional Metric,0.18,0.34,0.12,0.36,1
+Lassen,F,Traditional Metric,0.16,0.11,0.35,0.38,1
+Los Angeles,F,Traditional Metric,0.3,0.06,0.05,0.59,1
+Madera,F,Traditional Metric,0.11,0.23,0.29,0.38,1
+Marin,F,Traditional Metric,0.35,0.36,0.26,0.03,1
+Mariposa,F,Traditional Metric,0.65,0.08,0.04,0.23,1
+Mendocino,F,Traditional Metric,0.24,0.34,0.35,0.07,1
+Merced,F,Traditional Metric,0.25,0.08,0.29,0.38,1
+Modoc,F,Traditional Metric,0.24,0.27,0.25,0.25,1
+Mono,F,Traditional Metric,0.36,0.06,0.19,0.39,1
+Monterey,F,Traditional Metric,0.01,0.35,0.5,0.14,1
+Napa,F,Traditional Metric,0.24,0.5,0.24,0.01,1
+Nevada,F,Traditional Metric,0.02,0.34,0.36,0.28,1
+Orange,F,Traditional Metric,0.36,0.3,0,0.34,1
+Placer,F,Traditional Metric,0.38,0.05,0.36,0.21,1
+Plumas,F,Traditional Metric,0.3,0.46,0.04,0.2,1
+Riverside,F,Traditional Metric,0.33,0.24,0.31,0.12,1
+Sacramento,F,Traditional Metric,0.25,0.35,0.25,0.15,1
+San Benito,F,Traditional Metric,0.35,0.09,0.36,0.19,1
+San Bernardino,F,Traditional Metric,0.29,0.01,0.4,0.3,1
+San Diego,F,Traditional Metric,0.38,0.16,0.14,0.32,1
+San Francisco,F,Traditional Metric,0.4,0.12,0.3,0.18,1
+San Joaquin,F,Traditional Metric,0.32,0.33,0.12,0.23,1
+San Luis Obispo,F,Traditional Metric,0.03,0.41,0.25,0.31,1
+San Mateo,F,Traditional Metric,0,0.12,0.05,0.83,1
+Santa Barbara,F,Traditional Metric,0.02,0.4,0.15,0.42,1
+Santa Clara,F,Traditional Metric,0.36,0.25,0.21,0.18,1
+Santa Cruz,F,Traditional Metric,0.27,0.19,0.25,0.3,1
+Shasta,F,Traditional Metric,0.16,0.34,0.41,0.09,1
+Sierra,F,Traditional Metric,0.41,0.33,0.22,0.03,1
+Siskiyou,F,Traditional Metric,0.23,0.21,0.34,0.22,1
+Solano,F,Traditional Metric,0.23,0.17,0.25,0.35,1
+Sonoma,F,Traditional Metric,0.15,0.36,0.2,0.29,1
+Stanislaus,F,Traditional Metric,0.2,0.03,0.4,0.36,1
+Sutter,F,Traditional Metric,0.36,0.07,0.13,0.44,1
+Tehama,F,Traditional Metric,0.02,0.3,0.25,0.43,1
+Trinity,F,Traditional Metric,0.15,0.3,0.41,0.13,1
+Tulare,F,Traditional Metric,0.42,0.05,0.45,0.08,1
+Tuolumne,F,Traditional Metric,0.3,0.2,0.33,0.16,1
+Ventura,F,Traditional Metric,0.25,0.24,0.31,0.2,1
+Yolo,F,Traditional Metric,0.14,0.16,0.37,0.33,1
+Yuba,F,Traditional Metric,0.19,0.35,0.21,0.25,1
+Alameda,G,Traditional Metric,0.07,0.33,0.18,0.43,1
+Alpine,G,Traditional Metric,0.31,0.12,0.29,0.28,1
+Amador,G,Traditional Metric,0.5,0.09,0.27,0.14,1
+Butte,G,Traditional Metric,0.25,0.37,0.01,0.38,1
+Calaveras,G,Traditional Metric,0.34,0.04,0.29,0.33,1
+Colusa,G,Traditional Metric,0.48,0.02,0.33,0.17,1
+Contra Costa,G,Traditional Metric,0.38,0.12,0.38,0.11,1
+Del Norte,G,Traditional Metric,0.08,0.38,0.07,0.46,1
+El Dorado,G,Traditional Metric,0.26,0.47,0.19,0.08,1
+Fresno,G,Traditional Metric,0.37,0.18,0.39,0.06,1
+Glenn,G,Traditional Metric,0.3,0.18,0.27,0.25,1
+Humboldt,G,Traditional Metric,0.02,0.06,0.44,0.48,1
+Imperial,G,Traditional Metric,0.45,0.29,0.01,0.25,1
+Inyo,G,Traditional Metric,0.27,0.2,0.14,0.39,1
+Kern,G,Traditional Metric,0.22,0.24,0.17,0.37,1
+Kings,G,Traditional Metric,0.15,0.34,0.24,0.27,1
+Lake,G,Traditional Metric,0.08,0.59,0.09,0.24,1
+Lassen,G,Traditional Metric,0.06,0.25,0.34,0.35,1
+Los Angeles,G,Traditional Metric,0.17,0.07,0.36,0.4,1
+Madera,G,Traditional Metric,0.4,0.24,0.33,0.03,1
+Marin,G,Traditional Metric,0.17,0.35,0.18,0.3,1
+Mariposa,G,Traditional Metric,0.16,0.45,0.18,0.2,1
+Mendocino,G,Traditional Metric,0.28,0.36,0.18,0.18,1
+Merced,G,Traditional Metric,0.2,0.37,0.4,0.03,1
+Modoc,G,Traditional Metric,0.34,0.07,0.32,0.27,1
+Mono,G,Traditional Metric,0.04,0.5,0.29,0.16,1
+Monterey,G,Traditional Metric,0.2,0.28,0.46,0.06,1
+Napa,G,Traditional Metric,0.35,0.08,0.3,0.26,1
+Nevada,G,Traditional Metric,0.32,0.37,0.09,0.22,1
+Orange,G,Traditional Metric,0.18,0.07,0.67,0.08,1
+Placer,G,Traditional Metric,0.15,0.26,0.25,0.34,1
+Plumas,G,Traditional Metric,0.17,0.33,0.19,0.31,1
+Riverside,G,Traditional Metric,0.26,0.47,0.06,0.22,1
+Sacramento,G,Traditional Metric,0.32,0.48,0.11,0.09,1
+San Benito,G,Traditional Metric,0.31,0.13,0.16,0.4,1
+San Bernardino,G,Traditional Metric,0.08,0.13,0.36,0.43,1
+San Diego,G,Traditional Metric,0.29,0.28,0.3,0.13,1
+San Francisco,G,Traditional Metric,0.48,0.02,0.35,0.15,1
+San Joaquin,G,Traditional Metric,0.23,0.36,0.4,0,1
+San Luis Obispo,G,Traditional Metric,0.11,0.48,0.09,0.32,1
+San Mateo,G,Traditional Metric,0.34,0.19,0.38,0.08,1
+Santa Barbara,G,Traditional Metric,0.21,0.42,0.12,0.25,1
+Santa Clara,G,Traditional Metric,0.43,0.09,0.16,0.32,1
+Santa Cruz,G,Traditional Metric,0.05,0.43,0.19,0.32,1
+Shasta,G,Traditional Metric,0.43,0.07,0.02,0.48,1
+Sierra,G,Traditional Metric,0.22,0.12,0.08,0.58,1
+Siskiyou,G,Traditional Metric,0.21,0.5,0.09,0.2,1
+Solano,G,Traditional Metric,0.3,0.27,0.09,0.34,1
+Sonoma,G,Traditional Metric,0.33,0.17,0.29,0.21,1
+Stanislaus,G,Traditional Metric,0.01,0.65,0.01,0.33,1
+Sutter,G,Traditional Metric,0.19,0.52,0.21,0.09,1
+Tehama,G,Traditional Metric,0.22,0.28,0.49,0.01,1
+Trinity,G,Traditional Metric,0.34,0.53,0.01,0.12,1
+Tulare,G,Traditional Metric,0.4,0.1,0.17,0.33,1
+Tuolumne,G,Traditional Metric,0.48,0.18,0.22,0.11,1
+Ventura,G,Traditional Metric,0.49,0.04,0.44,0.03,1
+Yolo,G,Traditional Metric,0.31,0.05,0.32,0.32,1
+Yuba,G,Traditional Metric,0.34,0.04,0.23,0.39,1
+Alameda,H,Traditional Metric,0.07,0.14,0.37,0.42,1
+Alpine,H,Traditional Metric,0.09,0.22,0.35,0.34,1
+Amador,H,Traditional Metric,0.11,0.36,0.12,0.41,1
+Butte,H,Traditional Metric,0.18,0.29,0.21,0.33,1
+Calaveras,H,Traditional Metric,0.06,0.24,0.05,0.65,1
+Colusa,H,Traditional Metric,0.08,0.36,0.29,0.26,1
+Contra Costa,H,Traditional Metric,0.32,0.39,0.11,0.19,1
+Del Norte,H,Traditional Metric,0.21,0.08,0.45,0.26,1
+El Dorado,H,Traditional Metric,0.25,0.17,0.23,0.35,1
+Fresno,H,Traditional Metric,0.46,0.17,0.14,0.23,1
+Glenn,H,Traditional Metric,0.26,0.18,0.33,0.23,1
+Humboldt,H,Traditional Metric,0.25,0.52,0.04,0.19,1
+Imperial,H,Traditional Metric,0.64,0.21,0.02,0.13,1
+Inyo,H,Traditional Metric,0.08,0.29,0.43,0.2,1
+Kern,H,Traditional Metric,0.12,0.42,0.37,0.09,1
+Kings,H,Traditional Metric,0.43,0.09,0.32,0.16,1
+Lake,H,Traditional Metric,0.09,0.35,0.28,0.29,1
+Lassen,H,Traditional Metric,0.32,0.26,0.08,0.34,1
+Los Angeles,H,Traditional Metric,0.31,0.22,0.26,0.21,1
+Madera,H,Traditional Metric,0.21,0.44,0.24,0.12,1
+Marin,H,Traditional Metric,0.62,0.04,0.04,0.3,1
+Mariposa,H,Traditional Metric,0.11,0.37,0.31,0.21,1
+Mendocino,H,Traditional Metric,0.05,0.61,0.21,0.13,1
+Merced,H,Traditional Metric,0.21,0.21,0.25,0.32,1
+Modoc,H,Traditional Metric,0.48,0.16,0.34,0.02,1
+Mono,H,Traditional Metric,0.37,0.49,0.12,0.01,1
+Monterey,H,Traditional Metric,0.1,0.1,0.45,0.35,1
+Napa,H,Traditional Metric,0.29,0.24,0.35,0.12,1
+Nevada,H,Traditional Metric,0.01,0.4,0.41,0.19,1
+Orange,H,Traditional Metric,0.7,0.05,0.11,0.14,1
+Placer,H,Traditional Metric,0.25,0.14,0.3,0.31,1
+Plumas,H,Traditional Metric,0.24,0.31,0.22,0.23,1
+Riverside,H,Traditional Metric,0.31,0.03,0.62,0.04,1
+Sacramento,H,Traditional Metric,0.14,0.38,0.28,0.2,1
+San Benito,H,Traditional Metric,0.25,0.53,0.17,0.06,1
+San Bernardino,H,Traditional Metric,0.28,0.24,0.33,0.14,1
+San Diego,H,Traditional Metric,0.31,0,0.45,0.24,1
+San Francisco,H,Traditional Metric,0.21,0.24,0.22,0.33,1
+San Joaquin,H,Traditional Metric,0.39,0.34,0.23,0.04,1
+San Luis Obispo,H,Traditional Metric,0.22,0.02,0.53,0.23,1
+San Mateo,H,Traditional Metric,0.34,0.5,0.15,0.01,1
+Santa Barbara,H,Traditional Metric,0.19,0.32,0.34,0.14,1
+Santa Clara,H,Traditional Metric,0.13,0.12,0.38,0.37,1
+Santa Cruz,H,Traditional Metric,0.23,0.3,0.17,0.3,1
+Shasta,H,Traditional Metric,0.09,0.25,0.35,0.31,1
+Sierra,H,Traditional Metric,0.65,0.2,0.08,0.07,1
+Siskiyou,H,Traditional Metric,0.22,0.32,0.39,0.07,1
+Solano,H,Traditional Metric,0.06,0.42,0.22,0.3,1
+Sonoma,H,Traditional Metric,0.29,0.39,0.14,0.18,1
+Stanislaus,H,Traditional Metric,0.26,0.37,0.29,0.09,1
+Sutter,H,Traditional Metric,0.12,0.53,0.25,0.1,1
+Tehama,H,Traditional Metric,0.29,0.31,0.34,0.07,1
+Trinity,H,Traditional Metric,0.18,0.17,0.39,0.26,1
+Tulare,H,Traditional Metric,0.27,0.08,0.35,0.3,1
+Tuolumne,H,Traditional Metric,0.3,0.3,0.23,0.18,1
+Ventura,H,Traditional Metric,0.26,0.26,0.15,0.32,1
+Yolo,H,Traditional Metric,0.2,0.35,0.36,0.09,1
+Yuba,H,Traditional Metric,0.24,0.01,0.4,0.35,1
+Alameda,I,Traditional Metric,0.24,0.17,0.37,0.22,1
+Alpine,I,Traditional Metric,0.06,0.45,0.37,0.12,1
+Amador,I,Traditional Metric,0.26,0.05,0.59,0.1,1
+Butte,I,Traditional Metric,0.01,0.34,0.22,0.43,1
+Calaveras,I,Traditional Metric,0.38,0.24,0.09,0.29,1
+Colusa,I,Traditional Metric,0.41,0.12,0.28,0.19,1
+Contra Costa,I,Traditional Metric,0.28,0.15,0.29,0.28,1
+Del Norte,I,Traditional Metric,0.29,0.24,0.23,0.25,1
+El Dorado,I,Traditional Metric,0.47,0.09,0.11,0.34,1
+Fresno,I,Traditional Metric,0.21,0.04,0.38,0.36,1
+Glenn,I,Traditional Metric,0.43,0.41,0.01,0.15,1
+Humboldt,I,Traditional Metric,0.16,0.06,0.53,0.25,1
+Imperial,I,Traditional Metric,0.75,0.11,0.1,0.04,1
+Inyo,I,Traditional Metric,0.13,0.34,0.45,0.08,1
+Kern,I,Traditional Metric,0.14,0.27,0.26,0.33,1
+Kings,I,Traditional Metric,0.3,0.13,0.26,0.31,1
+Lake,I,Traditional Metric,0.33,0.12,0.36,0.19,1
+Lassen,I,Traditional Metric,0.12,0.45,0.19,0.25,1
+Los Angeles,I,Traditional Metric,0.18,0.5,0.02,0.29,1
+Madera,I,Traditional Metric,0.63,0.09,0.24,0.04,1
+Marin,I,Traditional Metric,0.04,0.49,0.05,0.42,1
+Mariposa,I,Traditional Metric,0.46,0.01,0.11,0.42,1
+Mendocino,I,Traditional Metric,0.29,0.1,0.51,0.1,1
+Merced,I,Traditional Metric,0.11,0.27,0.16,0.45,1
+Modoc,I,Traditional Metric,0.32,0.28,0.11,0.29,1
+Mono,I,Traditional Metric,0.34,0.11,0.42,0.14,1
+Monterey,I,Traditional Metric,0.3,0.3,0.26,0.13,1
+Napa,I,Traditional Metric,0.31,0.31,0.1,0.28,1
+Nevada,I,Traditional Metric,0.47,0.25,0.16,0.13,1
+Orange,I,Traditional Metric,0.41,0.33,0.22,0.04,1
+Placer,I,Traditional Metric,0.36,0.18,0.22,0.24,1
+Plumas,I,Traditional Metric,0.29,0.21,0.41,0.09,1
+Riverside,I,Traditional Metric,0.11,0.39,0.22,0.27,1
+Sacramento,I,Traditional Metric,0.02,0.16,0.4,0.41,1
+San Benito,I,Traditional Metric,0.31,0.02,0.37,0.31,1
+San Bernardino,I,Traditional Metric,0.18,0.49,0.26,0.08,1
+San Diego,I,Traditional Metric,0.31,0.21,0.34,0.15,1
+San Francisco,I,Traditional Metric,0.12,0.45,0.15,0.29,1
+San Joaquin,I,Traditional Metric,0.29,0.07,0.29,0.35,1
+San Luis Obispo,I,Traditional Metric,0.25,0.58,0.14,0.03,1
+San Mateo,I,Traditional Metric,0.45,0.55,0,0,1
+Santa Barbara,I,Traditional Metric,0.12,0.39,0.1,0.39,1
+Santa Clara,I,Traditional Metric,0.06,0.23,0.53,0.17,1
+Santa Cruz,I,Traditional Metric,0.01,0.35,0.2,0.44,1
+Shasta,I,Traditional Metric,0.29,0.11,0.35,0.25,1
+Sierra,I,Traditional Metric,0.26,0.15,0.14,0.45,1
+Siskiyou,I,Traditional Metric,0.34,0.42,0.06,0.18,1
+Solano,I,Traditional Metric,0.03,0.39,0.22,0.36,1
+Sonoma,I,Traditional Metric,0.06,0.27,0.24,0.42,1
+Stanislaus,I,Traditional Metric,0.06,0.38,0.42,0.14,1
+Sutter,I,Traditional Metric,0.28,0.12,0.34,0.26,1
+Tehama,I,Traditional Metric,0.3,0.09,0.24,0.36,1
+Trinity,I,Traditional Metric,0.31,0.19,0.26,0.23,1
+Tulare,I,Traditional Metric,0.32,0.18,0.15,0.35,1
+Tuolumne,I,Traditional Metric,0.15,0.03,0.45,0.37,1
+Ventura,I,Traditional Metric,0.14,0.68,0.1,0.08,1
+Yolo,I,Traditional Metric,0.48,0.41,0.08,0.02,1
+Yuba,I,Traditional Metric,0.29,0.34,0.23,0.15,1
+Alameda,J,Traditional Metric,0.1,0.21,0.46,0.23,1
+Alpine,J,Traditional Metric,0.32,0.05,0.23,0.4,1
+Amador,J,Traditional Metric,0.33,0.26,0.05,0.36,1
+Butte,J,Traditional Metric,0.39,0.01,0.13,0.47,1
+Calaveras,J,Traditional Metric,0.32,0.09,0.42,0.17,1
+Colusa,J,Traditional Metric,0.31,0.3,0.22,0.18,1
+Contra Costa,J,Traditional Metric,0.41,0.07,0.24,0.29,1
+Del Norte,J,Traditional Metric,0.26,0.1,0.3,0.34,1
+El Dorado,J,Traditional Metric,0.06,0.2,0.28,0.46,1
+Fresno,J,Traditional Metric,0.51,0.19,0.24,0.06,1
+Glenn,J,Traditional Metric,0.27,0.13,0.2,0.4,1
+Humboldt,J,Traditional Metric,0.21,0.02,0.33,0.44,1
+Imperial,J,Traditional Metric,0.17,0.51,0.09,0.22,1
+Inyo,J,Traditional Metric,0.15,0.58,0.15,0.12,1
+Kern,J,Traditional Metric,0.16,0.37,0.37,0.1,1
+Kings,J,Traditional Metric,0.39,0.19,0.41,0.02,1
+Lake,J,Traditional Metric,0.15,0.25,0.3,0.3,1
+Lassen,J,Traditional Metric,0.45,0.04,0.04,0.47,1
+Los Angeles,J,Traditional Metric,0.12,0.21,0.34,0.33,1
+Madera,J,Traditional Metric,0.07,0.33,0.27,0.33,1
+Marin,J,Traditional Metric,0.34,0.18,0.28,0.2,1
+Mariposa,J,Traditional Metric,0.2,0.32,0.33,0.15,1
+Mendocino,J,Traditional Metric,0.09,0.34,0.23,0.33,1
+Merced,J,Traditional Metric,0.15,0.45,0.21,0.18,1
+Modoc,J,Traditional Metric,0.41,0.24,0.06,0.29,1
+Mono,J,Traditional Metric,0.32,0.06,0.21,0.41,1
+Monterey,J,Traditional Metric,0.08,0.4,0.39,0.14,1
+Napa,J,Traditional Metric,0.37,0.35,0.15,0.12,1
+Nevada,J,Traditional Metric,0.33,0.14,0.01,0.53,1
+Orange,J,Traditional Metric,0.35,0.39,0.13,0.13,1
+Placer,J,Traditional Metric,0.36,0.1,0.04,0.5,1
+Plumas,J,Traditional Metric,0.29,0.21,0.13,0.37,1
+Riverside,J,Traditional Metric,0.27,0.33,0.05,0.35,1
+Sacramento,J,Traditional Metric,0.36,0.11,0.18,0.36,1
+San Benito,J,Traditional Metric,0.34,0.26,0.12,0.29,1
+San Bernardino,J,Traditional Metric,0.14,0.42,0.27,0.18,1
+San Diego,J,Traditional Metric,0.31,0.36,0.31,0.02,1
+San Francisco,J,Traditional Metric,0.12,0.39,0.08,0.41,1
+San Joaquin,J,Traditional Metric,0.3,0.17,0.34,0.19,1
+San Luis Obispo,J,Traditional Metric,0.18,0.39,0.28,0.15,1
+San Mateo,J,Traditional Metric,0.07,0.15,0.06,0.73,1
+Santa Barbara,J,Traditional Metric,0.37,0.24,0.07,0.31,1
+Santa Clara,J,Traditional Metric,0.09,0.3,0.28,0.33,1
+Santa Cruz,J,Traditional Metric,0.2,0.09,0.45,0.26,1
+Shasta,J,Traditional Metric,0.3,0.27,0.38,0.05,1
+Sierra,J,Traditional Metric,0.24,0.26,0.17,0.34,1
+Siskiyou,J,Traditional Metric,0.21,0.6,0.1,0.09,1
+Solano,J,Traditional Metric,0.1,0.22,0.11,0.57,1
+Sonoma,J,Traditional Metric,0.37,0.22,0.19,0.22,1
+Stanislaus,J,Traditional Metric,0.38,0,0.25,0.36,1
+Sutter,J,Traditional Metric,0.28,0.14,0.3,0.28,1
+Tehama,J,Traditional Metric,0.34,0.23,0.28,0.14,1
+Trinity,J,Traditional Metric,0.23,0.26,0.17,0.34,1
+Tulare,J,Traditional Metric,0.14,0.31,0.24,0.32,1
+Tuolumne,J,Traditional Metric,0.05,0.08,0.3,0.57,1
+Ventura,J,Traditional Metric,0.37,0.29,0.16,0.18,1
+Yolo,J,Traditional Metric,0.34,0.13,0.41,0.11,1
+Yuba,J,Traditional Metric,0.08,0.24,0.39,0.29,1

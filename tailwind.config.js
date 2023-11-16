@@ -2,7 +2,14 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {}
+    extend: {
+      fontFamily: {
+        'buttonHeader':[
+          'Noto Sans'
+        ],
+        'header':['PT Sans Narrow'],
+      }
+    }
   },
   plugins: []
 };
