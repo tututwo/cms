@@ -5,9 +5,9 @@ export default {
     extend: {
       fontFamily: {
         'buttonHeader':[
-          'Noto Sans'
+          'Georgia',
         ],
-        'header':['PT Sans Narrow'],
+        'header':['Georgia'],
       }
     }
   },
