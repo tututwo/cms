@@ -7,6 +7,17 @@
 
   export let canvasElement;
   export let gapSize;
+  export let yKey='population_name';
+  export let startingHeight
+
+  export let opacity = .7;
+  export let strokeColor;
+  export let strokeWidth;
+  export let roughness = .5
+  export let bowing = 3.7
+  export let hachureGap = 1
+  export let fillWeight = 1.5
+  export let fillStyle = 'hach'
   import rough from "roughjs";
   import gsap from "gsap";
   import { writable, get } from "svelte/store";
@@ -20,8 +31,8 @@
   $: if (canvasElement) {
     roughCanvas = rough.canvas(canvasElement);
   }
-  // $: console.log($data)
 
+  // $: console.log(dataset);
   function createGSAPStore(initialData, options) {
     const { subscribe, set } = writable(initialData);
     let animations = [];
@@ -42,22 +53,43 @@
       },
     };
   }
+  
+  const animatedStore = createGSAPStore(
+    get(data).map((comfortLevel) => {
+      let key = comfortLevel.key;
+      return comfortLevel.map((d) => {
+        // this controls the initial position of the bars
+        // aka, the intro animation's initial position
+        let population_y_coord = $yScale.range([0,startingHeight])(d.data[yKey]);
 
-  const animatedStore = createGSAPStore(get(data), {
-    duration: .8,
-    ease: "power2.inOut",
+        return [0,0, population_y_coord, key];
+      });
+    }),
+    {
+      duration: 0.8,
+      ease: "power2.inOut",
+    }
+  );
+  $: dataset = $data.map((comfortLevel) => {
+    let key = comfortLevel.key;
+    
+    return comfortLevel.map((d) => {
+      let population_y_coord = $yScale(d.data[yKey]);
+
+      return [...d, population_y_coord, key];
+    });
   });
-  $: animatedStore.animate($data);
+  $: animatedStore.animate(dataset);
 
   $: {
     if (ctx && canvasElement) {
       scaleCanvas($ctx, $width, $height);
       $ctx.clearRect(0, 0, $width, $height);
-
+      $ctx.globalAlpha = `${opacity}`;
       $animatedStore.forEach((comfortLevel) => {
-        let comfortLevelName = comfortLevel.key;
+        // let comfortLevelName = comfortLevel.key;
         comfortLevel.forEach((d) => {
-          const y = $yScale(d.data.population_name);
+          // const y = $yScale(d.data[yKey]);
           const x = $xScale(d[0]) + gapSize / 2;
           const height = $yScale.bandwidth();
 
@@ -67,22 +99,22 @@
 
           // Retrieve the parent's data for the color
           // const parentData = /* logic to get parentData */;
-          const fillColor = $zScale(comfortLevelName);
+          const fillColor = $zScale(d[3]);
           // // Draw the rectangle
-
-          roughCanvas.rectangle(x, y, width, height, {
-            roughness: 0.5,
+          const stroke = strokeColor ?? fillColor;
+          roughCanvas.rectangle(x, d[2], width, height, {
+            roughness: `${roughness}`,
             fill: fillColor,
-            stroke: fillColor,
-            strokeWidth: 2,
-            hachureGap: 1,
+            stroke: `${stroke}`,
+            strokeWidth: `${strokeWidth}`,
+            hachureGap: `${hachureGap}`,
             hachureAngle: -30,
-            fillWeight: 1.5,
-            // fillStyle: fillStyle,
-            bowing: 3.7,
+            fillWeight: `${fillWeight}`,
+            fillStyle: `${fillStyle}`,
+            bowing: `${bowing}`,
             disableMultiStroke: true,
             disableMultiStrokeFill: true,
-            seed:20
+            seed: 20,
           });
         });
       });

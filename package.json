@@ -29,6 +29,7 @@
 		"iconify-icon": "^1.0.8",
 		"layercake": "^8.0.2",
 		"npm-check-updates": "^16.14.6",
+		"rough-notation": "^0.5.1",
 		"roughjs": "^4.6.5",
 		"topojson-client": "^3.1.0"
 	}

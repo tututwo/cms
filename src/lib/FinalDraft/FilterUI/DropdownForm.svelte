@@ -4,8 +4,8 @@
   export let selected;
 </script>
 
-<div class="w-1/4 m-0 p-0 mr-5">
-  <div class="lg:text-lg text-[#555] uppercase mb-1 font-buttonHeader">{dropdownMenuTitle}</div>
+<div class="w-[calc(50%-20px)] mb-6 mt-2 mr-5">
+  <div class="text-[11px] lg:text-lg text-[#555] lg:text-[#a3a3a3] uppercase mb-1 font-buttonHeader">{dropdownMenuTitle}</div>
   <form
     class="bg-color-[#fff] border-2 border-[#cdcdcd] flex items-center mr-0 mb-0 "
   >

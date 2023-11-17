@@ -9,45 +9,42 @@
     colorMap[key] = colors[index];
   });
 
-  let activeMetric;
+  let activeMetric = "prop_difficult";
 
   $: data.set(
-    $data.sort((a, b) =>
-      descending(parseFloat(a[activeMetric]), parseFloat(b[activeMetric]))
-    )
+    $data.sort((a, b) => descending(+a[activeMetric], +b[activeMetric]))
   );
 
 </script>
 
-<div class="flex justify-between mr-[5%]">
-  <div>
-    <span class="sort font-thin text-sm">SORT CHART</span>
-
-    <div class="inline-flex">
-      {#each sortButtons as button}
-        <label>
-          <input
-            type="radio"
-            name="viz-sort"
-            data-metric="open_score"
-            aria-label={button}
-            bind:group={activeMetric}
-            value={button}
-          />
-          <span
-            class="button open_score"
-            class:active={activeMetric === button}
-            data-metric={button}
-            aria-hidden="true"
-            style="background-color: {activeMetric === button
-              ? colorMap[button]
-              : 'initial'}"
-          >
-            {button}
-          </span>
-        </label>
-      {/each}
-    </div>
+<div class="text-left">
+  <p class="uppercase font-light lg:inline-flex lg:text-[#a3a3a3]">
+    Sort chart:
+  </p>
+  <div class="buttons-cont lg:inline-flex">
+    {#each sortButtons as button}
+      <label class="mb-2">
+        <input
+          type="radio"
+          name="viz-sort"
+          data-metric="open_score"
+          aria-label={button}
+          bind:group={activeMetric}
+          value={button}
+        />
+        <span
+          class="button text-[11px]"
+          class:active={activeMetric === button}
+          data-metric={button}
+          aria-hidden="true"
+          style="background-color: {activeMetric === button
+            ? colorMap[button]
+            : 'initial'}; margin-bottom:8px"
+        >
+          {button}
+        </span>
+      </label>
+    {/each}
   </div>
 </div>
 
@@ -73,10 +70,11 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    height: 30px;
+    height: 40px;
     margin: 0 3px;
   }
   span.button.active {
+    margin-bottom: 18px;
     text-align: right;
     box-sizing: inherit;
     vertical-align: baseline;
@@ -91,7 +89,7 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    height: 30px;
+    height: 40px;
     margin: 0 3px;
     font-weight: 700;
     text-shadow: -1px -1px 0 #fff, -1px -0.5px 0 #fff, -1px 0 1px #fff,

@@ -9,7 +9,7 @@
 
   /** @type {Function} projection - A D3 projection function. Pass this in as an uncalled function, e.g. `projection={geoAlbersUsa}`. */
   export let projection;
-
+export let heightStretchRatio = 1.05
   /** @type {Number} [fixedAspectRatio] - By default, the map fills to fit the $width and $height. If instead you want a fixed-aspect ratio, like for a server-side rendered map, set that here. */
   export let fixedAspectRatio = undefined;
 
@@ -24,17 +24,17 @@
   export let strokeWidth = 0.5;
   $: fitSizeRange = fixedAspectRatio
     ? [100, 100 / fixedAspectRatio]
-    : [$width, $height];
+    : [$width, $height*heightStretchRatio];
 
-  $: geoPathFn = geoPath(projection().fitSize(fitSizeRange, $data));
+  $: geoPathFn = geoPath(projection().scale(1).fitSize(fitSizeRange, $data));
 
   const dispatch = createEventDispatcher();
   // data.find((d) => +d.location === +feature.properties.COUNTYFP)
   // ? "cyan"
   //       : fill
   function handleMousemove(e) {
-      raise(this);
-    };
+    raise(this);
+  }
 </script>
 
 <g>
@@ -50,6 +50,7 @@
       stroke={existCounty ? stroke : stroke}
       stroke-width={existCounty ? 1 : 0.2}
       d={geoPathFn(feature)}
+      opacity={0.8}
       on:click={(e) => dispatch("mapClick", { e, props: feature.properties })}
       on:mousemove={handleMousemove}
     />
@@ -58,8 +59,8 @@
 
 <style>
   .feature-path:hover {
-    stroke: #000;
-    stroke-width: 2px;
+    stroke: white;
+    stroke-width: 4px;
   }
   /**
    * Disable the outline on feature click.

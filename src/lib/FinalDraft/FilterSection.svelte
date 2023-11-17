@@ -3,7 +3,7 @@
 
   // a store, which has an array of 4000 objects
   export let rawData, selectedCounty;
-  import { data } from "$lib/data/data";
+  import { data, countyTenureStore } from "$lib/data/data";
 
   import DropdownForm from "./FilterUI/DropdownForm.svelte";
 
@@ -18,6 +18,10 @@
   const transportationChildcare = Array.from(
     new Set(rawData.map((d) => d.metric_type))
   );
+
+  const countyTenure = Array.from(new Set(rawData.map((d) => d.housing_tenure)))
+    .filter((item) => forEachState.includes(item))
+    .sort();
 
   let selectedHousingGroup = "all_fips";
   let selectedMetricType = "TCC";
@@ -42,18 +46,33 @@
     });
   $: data.set(filteredData);
 
-  // $: console.log($data);
+  $: filteredCountyTenure = rawData.filter( d=> countyTenure.includes(d.housing_tenure))
+    .filter((d) =>
+      selectedMetricType ? d.metric_type === selectedMetricType : true
+    )
+    .filter((d) => {
+      if (!isNaN(selectedCounty) && !isNaN(+d.location)) {
+        // Convert 'selectedCounty' to a number and compare with the 'location' property
+        return +d.location === +selectedCounty;
+      } else {
+        // Handle the case where 'selectedCounty' is not valid (e.g., not a number)
+        return false;
+      }
+    });
+
+  $: countyTenureStore.set(filteredCountyTenure);
+ 
 </script>
 
 <div class="flex">
   <DropdownForm
     dropdownMenuData={housingTenure}
-    dropdownMenuTitle={"Choose a housing group"}
+    dropdownMenuTitle={"Housing Tenure"}
     bind:selected={selectedHousingGroup}
   />
   <DropdownForm
     dropdownMenuData={transportationChildcare}
-    dropdownMenuTitle={"With Child care"}
+    dropdownMenuTitle={"Child care"}
     bind:selected={selectedMetricType}
   />
 </div>
