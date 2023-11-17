@@ -1,14 +1,19 @@
 <script>
-  import { writable } from "svelte/store";
+  import FilterSection from "$lib/FinalDraft/FilterSection.svelte";
 
-  import Button from "$lib/FinalDraft/Button.svelte";
   import CaliforniaMap from "$lib/FinalDraft/CaliforniaMap.svelte";
   import RoughStackedBar from "$lib/FinalDraft/RoughStackedBar.svelte";
 
   import California from "$lib/data/california-counties.json";
-  import rawData from "$lib/data/data.csv";
+  import data from "$lib/data/data.csv";
+  data.forEach((d) => {
+    d.prop_comfortable = +d.prop_comfortable;
+    d.prop_difficult = +d.prop_difficult;
+    d.prop_just = +d.prop_just;
+    d.prop_okay = +d.prop_okay;
+  });
 
-  const data = writable(rawData);
+
 </script>
 
 <div class="grid grid-cols-3 grid-rows-5 gap-8 h-screen w-full font">
@@ -27,15 +32,12 @@
       voluptatibus tenetur culpa quaerat aperiam, reiciendis quasi veritatis
       ipsam ad ea dolorum.
     </div>
-    <Button
-      {data}
-      buttonsOne={["all_fips", "all_morgage", "rentStocks", "morgageStocks"]}
-    />
+    <FilterSection rawData={data} />
   </aside>
   <div class="col-span-1 row-span-4">
     <CaliforniaMap data={California} />
   </div>
   <div class="col-span-2 row-span-4">
-    <RoughStackedBar {data} />
+    <RoughStackedBar />
   </div>
 </div>

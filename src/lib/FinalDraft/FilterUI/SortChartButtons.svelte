@@ -1,30 +1,30 @@
 <script>
-  export let data
-  import Toggle from "./FilterUI/Toggle.svelte";
-  const buttonsOne = ["all_fips", "all_morgage", "rentStocks", "morgageStocks"];
-  const colorMap = {
-    all_fips: "#595959",
-    all_morgage: "#66c2a4",
-    rentStocks: "#8c96c6",
-    morgageStocks: "#fc8d59",
-  };
+  // @ts-nocheck
+
+  import { data } from "$lib/data/data";
+  import { descending, ascending } from "d3-array";
+  export let sortButtons, colors;
+  const colorMap = {};
+  sortButtons.forEach((key, index) => {
+    colorMap[key] = colors[index];
+  });
 
   let activeMetric;
 
-  function setActive(metric) {
-    activeMetric = metric;
-  }
+  $: data.set(
+    $data.sort((a, b) =>
+      descending(parseFloat(a[activeMetric]), parseFloat(b[activeMetric]))
+    )
+  );
 
-  data.set(1)
-  
 </script>
 
 <div class="flex justify-between mr-[5%]">
   <div>
-    <span class="sort  font-thin text-[2rem]">RENT VS BUY</span>
+    <span class="sort font-thin text-sm">SORT CHART</span>
 
     <div class="inline-flex">
-      {#each buttonsOne as button}
+      {#each sortButtons as button}
         <label>
           <input
             type="radio"
@@ -49,8 +49,6 @@
       {/each}
     </div>
   </div>
-
-  <Toggle />
 </div>
 
 <style>
@@ -66,7 +64,7 @@
     border-radius: 5px;
     border: 1px solid #555;
     transition: background-color 0.2s ease-in-out;
-    font: 1.5rem/1.4 "DecimaMonoPro", monospace;
+    font: 0.95rem/1.4 "DecimaMonoPro", monospace;
     text-transform: uppercase;
     color: #222;
     cursor: pointer;
@@ -75,7 +73,7 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    height: 70px;
+    height: 30px;
     margin: 0 3px;
   }
   span.button.active {
@@ -85,7 +83,7 @@
     border-radius: 5px;
     border: 1px solid #555;
     transition: background-color 0.2s ease-in-out;
-    font: 1.5rem/1.4 "DecimaMonoPro", monospace;
+    font: 0.95rem/1.4 "DecimaMonoPro", monospace;
     text-transform: uppercase;
     color: #222;
     cursor: pointer;
@@ -93,7 +91,7 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    height: 70px;
+    height: 30px;
     margin: 0 3px;
     font-weight: 700;
     text-shadow: -1px -1px 0 #fff, -1px -0.5px 0 #fff, -1px 0 1px #fff,

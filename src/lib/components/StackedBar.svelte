@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   // @ts-nocheck
   export let data, group;
   import { Html, LayerCake, Svg, flatten, stack, uniques } from "layercake";
@@ -37,4 +37,4 @@
       <Bar />
     </Svg>
   </LayerCake>
-</figure>
+</figure> -->
