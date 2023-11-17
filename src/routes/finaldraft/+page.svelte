@@ -13,7 +13,11 @@
     d.prop_okay = +d.prop_okay;
   });
 
-
+  let selectedCounty = 1;
+  function handleClick(e) {
+    selectedCounty = +e.detail.props.COUNTYFP;
+ 
+  }
 </script>
 
 <div class="grid grid-cols-3 grid-rows-5 gap-8 h-screen w-full font">
@@ -32,10 +36,14 @@
       voluptatibus tenetur culpa quaerat aperiam, reiciendis quasi veritatis
       ipsam ad ea dolorum.
     </div>
-    <FilterSection rawData={data} />
+    <FilterSection rawData={data} {selectedCounty}/>
   </aside>
   <div class="col-span-1 row-span-4">
-    <CaliforniaMap data={California} />
+    <CaliforniaMap
+      mapData={California}
+      rawData={data}
+      on:mapClick={handleClick}
+    />
   </div>
   <div class="col-span-2 row-span-4">
     <RoughStackedBar />

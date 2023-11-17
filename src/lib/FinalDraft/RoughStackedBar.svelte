@@ -9,13 +9,13 @@
   // import GSAPBar from "./Chart/GSAPBar.svelte";
   // import GSAPStoreBar from "./Chart/GSAPStoreBar.svelte";
   import StackedBar from "$lib/FinalDraft/Chart/StackedBar.svelte";
-  let gapSize = /* gap size */ 0.3;
+  let gapSize = /* gap size */ 10;
 
   // Stack function
   let yKey = "location";
   $: yDomain = Array.from(new Set($data.map((d) => d.population_name)));
   let colorKey = "key";
-  const colors = ["#B9B19D", "#00B3E3", "#061E41", "#E84B37"];
+  const colors = ["#00B3E3", "#B9B19D", "#061E41", "#E84B37"];
   $: categories = Object.keys($data[0]).filter((key) => key.startsWith("prop"));
   $: stackedData = stack($data, categories);
 </script>

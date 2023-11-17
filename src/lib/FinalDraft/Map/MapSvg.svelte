@@ -1,5 +1,9 @@
 <script>
+  // @ts-nocheck
+
+  export let rawData;
   import { geoPath } from "d3-geo";
+  import { raise } from "layercake";
   import { getContext, createEventDispatcher } from "svelte";
   const { data, width, height, zGet } = getContext("LayerCake");
 
@@ -10,7 +14,8 @@
   export let fixedAspectRatio = undefined;
 
   /** @type {String} [fill] - The shape's fill color. By default, the fill will be determined by the z-scale, unless this prop is set. */
-  export let fill = undefined;
+  export let unavailableColor = undefined;
+  export let availableColor = undefined;
 
   /** @type {String} [stroke='#333'] - The shape's stroke color. */
   export let stroke = "#333";
@@ -22,27 +27,48 @@
     : [$width, $height];
 
   $: geoPathFn = geoPath(projection().fitSize(fitSizeRange, $data));
+
+  const dispatch = createEventDispatcher();
+  // data.find((d) => +d.location === +feature.properties.COUNTYFP)
+  // ? "cyan"
+  //       : fill
+  function handleMousemove(e) {
+      raise(this);
+    };
 </script>
 
 <g>
   {#each $data.features as feature}
+    {@const existCounty = rawData.find(
+      (d) => +d.location === +feature.properties.COUNTYFP
+    )}
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
     <path
       class="feature-path"
-      {fill}
-      {stroke}
-      stroke-width={strokeWidth}
+      fill={existCounty ? availableColor : unavailableColor}
+      stroke={existCounty ? stroke : stroke}
+      stroke-width={existCounty ? 1 : 0.2}
       d={geoPathFn(feature)}
+      on:click={(e) => dispatch("mapClick", { e, props: feature.properties })}
+      on:mousemove={handleMousemove}
     />
   {/each}
 </g>
 
 <style>
-  .feature-path {
-    z-index: 1;
-  }
   .feature-path:hover {
-    z-index: 100;
     stroke: #000;
-    stroke-width: 5px;
+    stroke-width: 2px;
+  }
+  /**
+   * Disable the outline on feature click.
+   * Depending on map funtionality and accessiblity issues,
+   * you may not want this rule. Read more:
+   * https://developer.mozilla.org/en-US/docs/Web/CSS/:focus
+   * https://github.com/mhkeller/layercake/issues/63
+   */
+  .feature-path:focus {
+    outline: none;
   }
 </style>
