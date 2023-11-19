@@ -9,8 +9,8 @@
   /** @type {Number} [xTick=-4] - How far over to position the text marker. */
   export let xTick = -4;
 
-  /** @type {Number} [yTick=-1] - How far up and down to position the text marker. */
-  export let yTick = -10;
+  /** @type {Number} [yTick=-2] - How far up and down to position the text marker. */
+  export let yTick = -20;
 
   export let yKey = "population_name";
 </script>
@@ -27,13 +27,14 @@
     >
       <div
         in:fade={{ duration: 250 }}
+        id="bar-name"
         class="text-xs lg:font-thin tracking-tighter lg:text-[1.2rem] text-left text-[#021228] uppercase bg"
         style="
           top:{yTick}px;
           left:{isBandwidth ? $padding.left + xTick - 4 : 0}px;
           transform: translate({isBandwidth ? '16px' : 0}, {isBandwidth
           ? -50 - Math.floor($yScale.bandwidth() / -2)
-          : '-100'}%);
+          : '-200'}%);
         "
       >
         {tick}
@@ -50,5 +51,15 @@
   .baseline,
   .text {
     position: absolute;
+    z-index:10
+  }
+  #bar-name {
+    text-shadow: -2px -2px 0 #fff, -2px -0.2px 0 #fff, -2px 0 2px #fff,
+      -2px 0.2px 0 #fff, -2px 2px 0 #fff, -0.2px -2px 0 #fff,
+      -0.2px -0.2px 0 #fff, -0.2px 0 2px #fff, -0.2px 0.2px 0 #fff,
+      -0.2px 2px 0 #fff, 0 -2px 2px #fff, 0 -0.2px 2px #fff, 0 0.2px 2px #fff,
+      0 2px 2px #fff, 0.2px -2px 0 #fff, 0.2px -0.2px 0 #fff, 0.2px 0 2px #fff,
+      0.2px 0.2px 0 #fff, 0.2px 2px 0 #fff, 2px -2px 0 #fff, 2px -0.2px 0 #fff,
+      2px 0 2px #fff, 2px 0.2px 0 #fff, 2px 2px 0 #fff;
   }
 </style>

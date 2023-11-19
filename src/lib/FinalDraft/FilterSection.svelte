@@ -46,7 +46,14 @@
     });
   $: data.set(filteredData);
 
-  $: filteredCountyTenure = rawData.filter( d=> countyTenure.includes(d.housing_tenure))
+  $: filteredCountyTenure = rawData
+    .filter((d) => {
+      if (selectedHousingGroup === "all_fips") {
+        return d.housing_tenure === "rentstock";
+      } else {
+        return d.housing_tenure === "mortstock";
+      }
+    })
     .filter((d) =>
       selectedMetricType ? d.metric_type === selectedMetricType : true
     )
@@ -61,7 +68,6 @@
     });
 
   $: countyTenureStore.set(filteredCountyTenure);
- 
 </script>
 
 <div class="flex">

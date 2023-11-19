@@ -7,32 +7,49 @@
 
   export let canvasElement;
   export let gapSize;
-  export let yKey='population_name';
-  export let startingHeight
+  export let yKey = "population_name";
+  export let startingHeight;
 
-  export let opacity = .7;
+  export let opacity = 0.7;
   export let strokeColor;
   export let strokeWidth;
-  export let roughness = .5
-  export let bowing = 3.7
-  export let hachureGap = 1
-  export let fillWeight = 1.5
-  export let fillStyle = 'hach'
+  export let roughness = 0.5;
+  export let bowing = 3.7;
+  export let hachureGap = 1;
+  export let fillWeight = 1.5;
+  export let fillStyle = "hach";
+
   import rough from "roughjs";
   import gsap from "gsap";
   import { writable, get } from "svelte/store";
   import { getContext, onMount, setContext } from "svelte";
   import { scaleCanvas } from "layercake";
 
-  const { data, width, height, xScale, yScale, zScale } =
+  import { findClosestPoint, isEqualRect } from "$lib/utility";
+  const { data, width, height, xScale, yScale, zScale, flatData } =
     getContext("LayerCake");
   const { ctx } = getContext("canvas");
+  let rectangles = [];
+
   let roughCanvas;
   $: if (canvasElement) {
     roughCanvas = rough.canvas(canvasElement);
-  }
 
-  // $: console.log(dataset);
+    canvasElement.addEventListener("mousemove", (e) => {
+      const mouseX = e.offsetX;
+      const mouseY = e.offsetY;
+      const closestRect = findClosestPoint([mouseX, mouseY], rectangles);
+
+     
+    });
+  }
+  // handleMouseMove(e) {
+  //   const hoveredRect = rectangles.find(rect =>
+  //     x > rect.x && x < rect.x + rect.width &&
+  //     y > rect.y && y < rect.y + rect.height
+  //   );
+  // }
+
   function createGSAPStore(initialData, options) {
     const { subscribe, set } = writable(initialData);
     let animations = [];
@@ -53,16 +70,18 @@
       },
     };
   }
-  
+
   const animatedStore = createGSAPStore(
     get(data).map((comfortLevel) => {
       let key = comfortLevel.key;
       return comfortLevel.map((d) => {
         // this controls the initial position of the bars
         // aka, the intro animation's initial position
-        let population_y_coord = $yScale.range([0,startingHeight])(d.data[yKey]);
+        let population_y_coord = $yScale.range([0, startingHeight])(
+          d.data[yKey]
+        );
 
-        return [0,0, population_y_coord, key];
+        return [0, 0, population_y_coord, key];
       });
     }),
     {
@@ -72,7 +91,7 @@
   );
   $: dataset = $data.map((comfortLevel) => {
     let key = comfortLevel.key;
-    
+
     return comfortLevel.map((d) => {
       let population_y_coord = $yScale(d.data[yKey]);
 
@@ -86,9 +105,9 @@
       scaleCanvas($ctx, $width, $height);
       $ctx.clearRect(0, 0, $width, $height);
       $ctx.globalAlpha = `${opacity}`;
-      $animatedStore.forEach((comfortLevel) => {
+      $animatedStore.forEach((comfortLevel, i) => {
         // let comfortLevelName = comfortLevel.key;
-        comfortLevel.forEach((d) => {
+        comfortLevel.forEach((d, j) => {
           // const y = $yScale(d.data[yKey]);
           const x = $xScale(d[0]) + gapSize / 2;
           const height = $yScale.bandwidth();
@@ -116,6 +135,11 @@
             disableMultiStrokeFill: true,
             seed: 20,
           });
+
+          // const newRect = { x, y, width, height, data: d };
+          // if (!rectangles.some((rect) => isEqualRect(rect, newRect))) {
+          //   rectangles.push(newRect);
+          // }
         });
       });
     }

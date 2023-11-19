@@ -9,7 +9,7 @@
   const { data, xScale, height, yScale, padding } =
     getContext("LayerCake");
 
-    $: console.log($xScale(0.5))
+  
     const formatter = format('.0%');
    
 </script>

@@ -27,17 +27,20 @@
 
   let container;
   let annotation;
+  let underscore;
   onMount(() => {
-    console.log(container);
+    
     annotation = annotate(container, {
       type: "circle",
       color: "#50748A",
-      padding: 10,
+      padding: 3,
+      iterations: 5,
 
       strokeWidth:4
     });
 
     annotation.show(); // Automatically show the annotation on mount
+ 
   });
 </script>
 
@@ -84,7 +87,7 @@
           rawData={data}
           on:mapClick={handleClick}
         />
-        <p class="text-[#a3a3a3]">
+        <p class="text-[#a3a3a3] font-thin">
           <span
             ><Icon
               icon="material-symbols:ads-click"

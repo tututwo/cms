@@ -10,7 +10,7 @@
   // import GSAPStoreBar from "./Chart/GSAPStoreBar.svelte";
   import StackedBar from "$lib/FinalDraft/Chart/StackedBar.svelte";
   import YAxis from "./Chart/YAxis.svelte";
-  import FixedBars from "./Chart/FixedBars.svelte";
+ 
   import XAxis from "./Chart/XAxis.svelte";
 
   let gapSize = /* gap size */ 10;
@@ -43,7 +43,7 @@
 <div class="w-full h-full flex flex-col">
   <SortChartButtons sortButtons={categories} {colors} />
 
-  <figure class="h-1/5">
+  <figure class="h-[15%]">
     <LayerCake
       padding={{ top: 30, right: 10, bottom: 0, left: 0 }}
       data={stackedcountyTenureData}
@@ -59,13 +59,13 @@
     >
       <Canvas let:element>
         <StackedBar
-          opacity={0.68}
+          opacity={1}
      
           strokeWidth={0}
-          roughness={0.0}
+          roughness={0.02}
           bowing={0.0}
-          fillWeight={2}
-          hachureGap={3}
+          fillWeight={1.5}
+          hachureGap={5}
           fillStyle={"solid"}
           canvasElement={element}
           {gapSize}
@@ -80,7 +80,7 @@
     >
   </figure>
 
-  <figure class="h-[75%]">
+  <figure class="h-[85%]">
     <LayerCake
       padding={{ top: 30, right: 10, bottom: 0, left: 0 }}
       data={stackedData}
@@ -94,10 +94,11 @@
       zDomain={categories}
       zRange={colors}
     >
-      <Canvas let:element>
+   
+      <Canvas let:element >
         <StackedBar canvasElement={element} {gapSize} startingHeight={950} />
       </Canvas>
-      <Html>
+      <Html  pointerEvents={false}>
         <XAxis />
         <YAxis />
       </Html>
